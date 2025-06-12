@@ -1,0 +1,371 @@
+{
+    "@context": [
+        "https://w3id.org/skg-if/context/skg-if.json",
+        {
+            "@base": "https://w3id.org/skg-if/sandbox/oc/",
+            "skg": "https://w3id.org/skg-if/sandbox/oc/",
+            "ro" : "http://purl.org/wf4ever/wf4ever#",
+            "rocrate_researchObject": "http://purl.org/wf4ever/wf4ever#ResearchObject",
+            "rocrate_copyright-owner": "http://purl.org/spar/pro/copyright-owner",
+            "rocrate_hasPart": "http://schema.org/hasPart",
+            "rocrate_email": "http://schema.org/email",
+            "rocrate_w3id": "skg:w3id"
+        }
+    ],
+    "@graph": [
+        {
+            "entity_type": "product",
+            "local_identifier": "https://w3id.org/ro-id/a0007726-0f5b-4ccb-a160-f350d669805e",
+            "identifiers": [
+                {
+                    "scheme": "rocrate_w3id",
+                    "value": "ro-id/a0007726-0f5b-4ccb-a160-f350d669805e"
+                }
+            ],
+            "product_type": ["research data","rocrate_researchObject"],
+            "titles": {
+                "none": "Hack4RiOMar: First FAIR2Adapt Workshop for the RiOMar Case Study"
+            },
+            "abstracts":{
+                "none": "## RiOMar Case Study\nThis [FAIR2Adapt](http://fair2adapt-eosc.eu) case study is led by IFREMER and builds on the outcomes of the RiOMar Project - Coastal Water Quality Anticipation to manage coastal zone ecosystem responses for biodiversity conservation. The RiOMar project\u2019s data is high-resolution and complex to manipulate. To effectively support climate adaptation strategies and plans, it is crucial to maintain the high-resolution quality while enabling efficient data fusion with diverse datasets.\n\n## Event\nThe Hack4RiOMar workathon brought together six motivated participants in person, collaborating to advance the FAIR2Adapt RiOMar Case Study\u2014the first workshop in our series of FAIR2Adapt case studies. We extend our gratitude \ud83d\udc4f to the external experts who participated at their own expense, bringing their expertise to tackle challenges and drive progress.\n\n## Funding\n\nFAIR2Adapt project (101188256) is funded by the European Union. Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or the Agency. Neither the European Union nor the granting authority can be held responsible for them."
+            },
+            "rocrate_hasPart": [
+              {
+                "@id": "https://w3id.org/ro-id/a0007726-0f5b-4ccb-a160-f350d669805e/folders/5c34d5ac-31b4-446f-91ec-d399942bed61/"
+              },
+              {
+                "@id": "https://w3id.org/ro-id/a0007726-0f5b-4ccb-a160-f350d669805e/folders/3efbd3ff-6847-46e6-8b43-953fd0f173a8/"
+              },
+              {
+                "@id": "https://w3id.org/ro-id/a0007726-0f5b-4ccb-a160-f350d669805e/folders/5c5b6a5e-ef46-47a4-baba-f94a844303b8/"
+              },
+              {
+                "@id": "https://w3id.org/ro-id/a0007726-0f5b-4ccb-a160-f350d669805e/folders/8dd2b8e4-4a24-4b55-b6b1-f951d3626aae/"
+              },
+              {
+                "@id": "https://w3id.org/ro-id/a0007726-0f5b-4ccb-a160-f350d669805e/resources/083ba1b4-45af-4abe-8361-d56d070945a4"
+              },
+              {
+                "@id": "https://w3id.org/ro-id/a0007726-0f5b-4ccb-a160-f350d669805e/resources/b807b5bd-57b3-4b28-b95d-a592ede7c2d3"
+              },
+              {
+                "@id": "https://w3id.org/ro-id/a0007726-0f5b-4ccb-a160-f350d669805e/resources/af9c97c7-6029-4e10-bb7d-972cbac5cccf"
+              },
+              {
+                "@id": "https://w3id.org/ro-id/a0007726-0f5b-4ccb-a160-f350d669805e/resources/b341a342-a31c-47fe-8df3-5273cb0d6f6c"
+              },
+              {
+                "@id": "https://w3id.org/ro-id/a0007726-0f5b-4ccb-a160-f350d669805e/resources/49a5c61d-8fc5-42bb-b6a1-89597eebc761"
+              },
+              {
+                "@id": "https://w3id.org/ro-id/a0007726-0f5b-4ccb-a160-f350d669805e/resources/8a6dca96-5d25-4bfc-8fd8-5463beaf12e1"
+              },
+              {
+                "@id": "https://w3id.org/ro-id/a0007726-0f5b-4ccb-a160-f350d669805e/resources/620b7a4c-e12c-4834-adee-a8e34a8ad891"
+              },
+              {
+                "@id": "https://w3id.org/ro-id/a0007726-0f5b-4ccb-a160-f350d669805e/resources/fba180ef-f032-4283-b40e-21e06fe68ce5"
+              },
+              {
+                "@id": "https://w3id.org/ro-id/a0007726-0f5b-4ccb-a160-f350d669805e/resources/9d6480a1-7f40-480e-bdf3-b1d6882a0b6d"
+              },
+              {
+                "@id": "https://w3id.org/ro-id/a0007726-0f5b-4ccb-a160-f350d669805e/resources/c360e84e-c624-484b-ace9-e42206647709"
+              },
+              {
+                "@id": "https://w3id.org/ro-id/a0007726-0f5b-4ccb-a160-f350d669805e/resources/d3d3b592-c486-47c5-bfcd-1b83f74a98e9"
+              },
+              {
+                "@id": "https://w3id.org/ro-id/a0007726-0f5b-4ccb-a160-f350d669805e/resources/e4929d4c-0e86-4dcf-9674-802a3e0472fe"
+              },
+              {
+                "@id": "https://w3id.org/ro-id/a0007726-0f5b-4ccb-a160-f350d669805e/resources/46470e5e-86b9-4e13-a41b-c78aec5917f6"
+              },
+              {
+                "@id": "https://w3id.org/ro-id/a0007726-0f5b-4ccb-a160-f350d669805e/resources/c840ea5e-a07d-4377-9f91-89e844e50902"
+              },
+              {
+                "@id": "https://w3id.org/ro-id/a0007726-0f5b-4ccb-a160-f350d669805e/resources/91af43ad-f5fe-43fb-84e0-0b1e9abf5642"
+              },
+              {
+                "@id": "https://w3id.org/ro-id/a0007726-0f5b-4ccb-a160-f350d669805e/resources/037d465e-b0e8-4f75-a89e-414a5b20b90a"
+              },
+              {
+                "@id": "https://w3id.org/ro-id/a0007726-0f5b-4ccb-a160-f350d669805e/resources/3f0242d9-f9f9-406e-bca9-9c07890139bc"
+              },
+              {
+                "@id": "https://w3id.org/ro-id/a0007726-0f5b-4ccb-a160-f350d669805e/resources/d390a404-43b2-408c-a779-ad458fcd6e49"
+              },
+              {
+                "@id": "https://w3id.org/ro-id/a0007726-0f5b-4ccb-a160-f350d669805e/resources/d020fa39-a601-40d5-966b-a8a3a70d3f07"
+              },
+              {
+                "@id": "https://w3id.org/ro-id/a0007726-0f5b-4ccb-a160-f350d669805e/resources/453de635-60bb-4399-97a7-637bb5cf1d8c"
+              },
+              {
+                "@id": "https://w3id.org/ro-id/a0007726-0f5b-4ccb-a160-f350d669805e/resources/87a6c246-b9c7-4f6a-a724-67e55a5116f7"
+              },
+              {
+                "@id": "https://w3id.org/ro-id/a0007726-0f5b-4ccb-a160-f350d669805e/resources/b6a442c9-7b27-4ffd-80bf-65646bccdc6f"
+              },
+              {
+                "@id": "https://w3id.org/ro-id/a0007726-0f5b-4ccb-a160-f350d669805e/resources/24dd623b-e2a1-42fb-886c-4c6f96373fc8"
+              },
+              {
+                "@id": "https://w3id.org/ro-id/a0007726-0f5b-4ccb-a160-f350d669805e/resources/561c6d89-9cff-4033-af0e-e474ef0f1070"
+              }
+            ],                            
+            "contributions": [
+                {
+                    "by": "https://orcid.org/0000-0002-1784-2920",
+                    "role": "author",
+                    "rank": 1
+                },
+                {
+                    "by": "https://orcid.org/0000-0002-0713-1658",
+                    "role": "author",
+                    "rank": 2
+                },
+                {
+                    "by": "https://orcid.org/0000-0002-1500-0156",
+                    "role": "author",
+                    "rank": 3
+                },
+                {
+                    "by": "https://orcid.org/0000-0002-8380-6370",
+                    "role": "author",
+                    "rank": 4
+                },
+                {
+                    "by": "mailto:justus.magin@ifremer.fr",
+                    "role": "author",
+                    "rank": 5
+                },
+                {
+                    "by": "mailto:ola.formo.kihle@rohub.com",
+                    "role": "author",
+                    "rank": 6
+                },
+                {
+                    "by": "https://ror.org/00vn06n10",
+                    "role": ["publisher", "rocrate_copyright-owner"]
+                },                
+                {
+                    "by": "https://ror.org/044jxhp58",
+                    "role": "rocrate_copyright-owner"
+                }
+            ],
+            "funding":"http://w3id.org/ro-id/rohub/model#funding/9c92cba4-a829-4563-ad99-8f56b76fd3d2",
+            "topics": ["http://eurovoc.europa.eu/2114", "http://eurovoc.europa.eu/3949"],
+            "dates": {
+                "publication": "2025-01-25 16:08:28.081639+00:00",
+                "creation": "2025-01-25 16:08:28.081639+00:00",
+                "modified": "2025-01-25 16:16:09.114608+00:00"
+            },
+            "hosting_data_source": "https://doi.org/10.25504/FAIRsharing.d3c5fd"
+        },
+        {
+            "local_identifier": "https://orcid.org/0000-0002-1784-2920",
+            "identifiers": [
+                {
+                    "scheme": "orcid",
+                    "value": "0000-0002-1784-2920"
+                }
+            ],            
+            "entity_type": "person",
+            "given_name": "Anne",
+            "family_name": "Fouilloux",
+            "name": "Anne Fouilloux"
+        },
+        {
+            "local_identifier": "https://orcid.org/0000-0002-0713-1658",
+            "identifiers": [
+                {
+                    "scheme": "orcid",
+                    "value": "0000-0002-0713-1658"
+                }
+            ],
+            "entity_type": "person",
+            "given_name": "Jean-Marc",
+            "family_name": "Delouis",
+            "name": "Jean-Marc Delouis"
+        },
+        {
+            "local_identifier": "https://orcid.org/0000-0002-1500-0156",
+            "identifiers": [
+                {
+                    "scheme": "orcid",
+                    "value": "0000-0002-1500-0156"
+                }
+            ],
+            "entity_type": "person",
+            "given_name": "Tina",
+            "family_name": "Odaka",
+            "name": "Tina Odaka"
+        },
+        {
+            "local_identifier": "https://orcid.org/0000-0002-8380-6370",
+            "identifiers": [
+                {
+                    "scheme": "orcid",
+                    "value": "0000-0002-8380-6370"
+                }
+            ],
+            "entity_type": "person",
+            "given_name": "Even",
+            "family_name": "Moa Myklebust",
+            "name": "Even Moa Myklebust"
+        },
+        {
+            "local_identifier": "mailto:justus.magin@ifremer.fr",
+            "identifiers": [
+                {
+                    "scheme": "rocrate_email",
+                    "value": "justus.magin@ifremer.fr"
+                }
+            ],
+            "entity_type": "person",
+            "given_name": "Justus",
+            "family_name": "Magin",
+            "name": "Justus Magin"
+        },
+        {
+            "local_identifier": "mailto:ola.formo.kihle@rohub.com",
+            "identifiers": [
+                {
+                    "scheme": "rocrate_email",
+                    "value": "ola.formo.kihle@rohub.com"
+                }
+            ],
+            "entity_type": "person",
+            "given_name": "Ola",
+            "family_name": "Formo Kihle",
+            "name": "Ola Formo Kihle"
+        },
+        {
+            "local_identifier": "https://ror.org/00vn06n10",
+            "identifiers": [
+                {
+                    "scheme": "ror",
+                    "value": "00vn06n10"
+                }
+            ],
+            "entity_type": "organisation",
+            "name": "Simula Research Laboratory"
+        },
+        {
+            "local_identifier": "https://ror.org/044jxhp58",
+            "identifiers": [
+                {
+                    "scheme": "ror",
+                    "value": "044jxhp58"
+                }
+            ],
+            "entity_type": "organisation",
+            "name": "IFREMER"
+        },
+        {
+            "local_identifier": "http://w3id.org/ro-id/rohub/model#funding/9c92cba4-a829-4563-ad99-8f56b76fd3d2",
+            "identifiers": [
+                {
+                    "scheme": "doi",
+                    "value": "10.3030/101188256"
+                }
+            ],
+            "entity_type": "grant",
+            "name": "FAIR2Adapt",
+            "titles": {
+                "none": "FAIR to Adapt to Climate Change"
+            },
+            "funding_agency": "http://w3id.org/ro-id/rohub/model#funder/9aa2685b-e6cc-4cbc-b392-8e194c038632"
+        },
+        {
+            "local_identifier": "http://w3id.org/ro-id/rohub/model#funder/9aa2685b-e6cc-4cbc-b392-8e194c038632",
+            "identifiers": [
+                {
+                    "scheme": "doi",
+                    "value": "10.13039/501100000780"
+                }
+            ],
+            "entity_type": "funder",
+            "name": "European Commission"
+        },
+        {
+            "local_identifier": "http://eurovoc.europa.eu/2114",
+            "identifiers": [
+                {
+                    "scheme": "url",
+                    "value": "http://eurovoc.europa.eu/2114"
+                }
+            ],
+            "entity_type": "topic",
+            "labels": {
+              "none": "oceanography"
+            }
+        },
+        {
+            "local_identifier": "http://eurovoc.europa.eu/3949",
+            "identifiers": [
+                {
+                    "scheme": "url",
+                    "value": "http://eurovoc.europa.eu/3949"
+                }
+            ],
+            "entity_type": "topic",
+            "labels": {
+              "none": "applied sciences"
+            }
+        },
+        {
+            "local_identifier": "https://doi.org/10.25504/FAIRsharing.d3c5fd",
+            "identifiers": [
+                {
+                    "scheme": "doi",
+                    "value": "10.25504/FAIRsharing.d3c5fd"
+                }
+            ],
+            "entity_type": "datasource",
+            "name": "ROHub",
+            "policy":[
+            {
+                "about": "submission",
+                "target": [
+                    "any"
+                ],
+                "documented_at": "https://www.rohub.org/about?terms_of_service"
+            },
+            {
+                "about": "preservation",
+                "target": [
+                    "any"
+                ],
+                "documented_at": "https://www.rohub.org/about?terms_of_service"
+            },
+            {
+                "about": "open access",
+                "target": [
+                    "metadata"                    
+                ],
+                "documented_at": "https://www.rohub.org/about?terms_of_service"                
+            }
+            ],
+            "persistent_identity_systems": [
+            {
+                "pid_schemes": [
+                    "doi",
+                    "w3id"
+                ],
+                "for": [
+                    "rocrate_researchObject",
+                    "product"
+                ]
+            }
+            ],
+            "data_source_classification": "repository",
+            "research_product_type": [
+                "rocrate_researchObject",
+                "product"
+            ]
+        }                  
+    ]
+}
