@@ -1,0 +1,28 @@
+[
+  {
+    "entity_type": "person",
+    "family_name": "Zhang",
+    "fullname": "Xin Zhang",
+    "given_name": "Xin",
+    "local_identifier": "temp_person_::1c3814f611da932e2708cda1acae7a31"
+  },
+  {
+    "entity_type": "person",
+    "fullname": "Alma Chavez-Blanco",
+    "local_identifier": "temp_person_::1c38151474d677243da1869254661368"
+  },
+  {
+    "entity_type": "person",
+    "family_name": "Katkov",
+    "fullname": "Katkov, I.",
+    "given_name": "I.",
+    "local_identifier": "temp_person_::1c3817238e8e33327e9eef6581fd567e"
+  },
+  {
+    "entity_type": "person",
+    "family_name": "Tijtgat",
+    "fullname": "J. Tijtgat",
+    "given_name": "J.",
+    "local_identifier": "temp_person_::1c381ed18ab9899640e71d37d55d655c"
+  }
+]

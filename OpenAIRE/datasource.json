@@ -1,0 +1,45 @@
+[
+  {
+    "data_source_classification": "Journal Archive",
+    "entity_type": "data source",
+    "identifiers": [],
+    "jurisdiction": "",
+    "local_identifier": "10|d1d111fd5192::be46f1572ebcdbb1c6986a3cd59a0d87",
+    "name": "PUBLIKA : Jurnal Ilmu Administrasi Publik",
+    "research_product_access_policy": [],
+    "research_product_metadata_access_policy": [],
+    "research_product_type": ["Research Literature"],
+    "thematic": false,
+    "version_control": false
+  },
+  {
+    "data_source_classification": "Journal Archive",
+    "entity_type": "data source",
+    "identifiers": [],
+    "jurisdiction": "",
+    "local_identifier": "10|doajarticles::00ac7d97a50faef0c7cabe81611d2096",
+    "name": "Journal of Environmental Geography",
+    "organization": [
+      "20|openorgs____::a60ce8558a7241d23bc7c90aef443504",
+      "20|pending_org_::eb0690788d276674aa13556e6739dc2d"
+    ],
+    "research_product_access_policy": [],
+    "research_product_metadata_access_policy": [],
+    "research_product_type": ["Research Literature"],
+    "thematic": false,
+    "version_control": false
+  },
+  {
+    "data_source_classification": "Journal Archive",
+    "entity_type": "data source",
+    "identifiers": [],
+    "jurisdiction": "",
+    "local_identifier": "10|doajarticles::045b5b93ce613027a6c9d513477f2676",
+    "name": "International Journal of Latest Trends in Engineering and Technology",
+    "research_product_access_policy": [],
+    "research_product_metadata_access_policy": [],
+    "research_product_type": ["Research Literature"],
+    "thematic": false,
+    "version_control": false
+  }
+]

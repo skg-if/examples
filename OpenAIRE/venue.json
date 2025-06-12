@@ -1,0 +1,54 @@
+[
+  {
+    "entity_type": "venue",
+    "identifiers": [
+      {
+        "scheme": "eissn",
+        "value": "2326-702X"
+      }
+    ],
+    "local_identifier": "temp_venue__::000ac78c14c4e56c511f3acc73abd699",
+    "name": "Advances in Cancer Research & Treatment",
+    "publisher": "IBIMA Publishing",
+    "type": "journal"
+  },
+  {
+    "entity_type": "venue",
+    "identifiers": [
+      {
+        "scheme": "issn",
+        "value": "0171-2985"
+      }
+    ],
+    "local_identifier": "temp_venue__::006d3a4e7ccb4652bf49fe0b065892bd",
+    "name": "Immunobiology",
+    "publisher": "Springer US",
+    "type": "journal"
+  },
+  {
+    "entity_type": "venue",
+    "identifiers": [
+      {
+        "scheme": "issn",
+        "value": "2213-1388"
+      }
+    ],
+    "local_identifier": "temp_venue__::017e6ef3fe7d88724647f4d3246cbc65",
+    "name": "Sustainable Energy Technologies and Assessments",
+    "publisher": "Elsevier Limited",
+    "type": "journal"
+  },
+  {
+    "entity_type": "venue",
+    "identifiers": [
+      {
+        "scheme": "eissn",
+        "value": "2331-2416"
+      }
+    ],
+    "local_identifier": "temp_venue__::01d91631706b28d4ecbbf7c456d180f6",
+    "name": "Research in Neurology An International Journal",
+    "publisher": "IBIMA Publishing",
+    "type": "journal"
+  }
+]
