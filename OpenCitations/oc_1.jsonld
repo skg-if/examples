@@ -2,8 +2,7 @@
     "@context": [
         "https://w3id.org/skg-if/context/skg-if.json",
         {
-            "@base": "https://w3id.org/skg-if/sandbox/oc/",
-            "skg": "https://w3id.org/skg-if/sandbox/oc/"
+            "@base": "https://w3id.org/skg-if/sandbox/oc/"
         }
     ],
     "@graph": [
