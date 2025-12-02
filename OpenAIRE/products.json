@@ -1,0 +1,90 @@
+{
+  "abstracts": {
+    "none": [
+      "Observed fish distributions by lake in Region 2"
+    ]
+  },
+  "contributions": [
+    {
+      "is_listed_author": true,
+      "person": "temp_person_::e021373e17fe5e0754ffc2c7ea334078",
+      "rank": 1
+    }
+  ],
+  "entity_type": "research product",
+  "identifiers": [],
+  "local_identifier": "50|475c1990cbb2::73fd7bd0336e78eb9890d2d6b262645a",
+  "manifestations": [
+    {
+      "access_right": "restricted",
+      "dates": [
+        {
+          "type": "publishing",
+          "value": "2014-12-16"
+        }
+      ],
+      "hosting_datasource": "10|openaire____::3795d6478e30e2c9f787d427ff160944",
+      "peer_review": "not peer-reviewed",
+      "product_local_type": "Dataset",
+      "product_local_type_schema": "dnet:publication_resource",
+      "url": "https://catalogue.data.gov.bc.ca/dataset/81043816-5a32-4f00-9760-bf7df643f08e"
+    }
+  ],
+  "product_type": "research data",
+  "titles": {
+    "none": [
+      "Known Lake Fish Distribution Observation- LMR"
+    ]
+  },
+  "topics": [
+    {
+      "provenance": {
+        "trust": 0.9,
+        "type": "Harvested"
+      },
+      "topic": "temp_topic__::7c3133c30f670318505af4dc6e38cbb1"
+    },
+    {
+      "provenance": {
+        "trust": 0.9,
+        "type": "Harvested"
+      },
+      "topic": "temp_topic__::b8e23ee250b2b43153a5cbdb350810fe"
+    },
+    {
+      "provenance": {
+        "trust": 0.9,
+        "type": "Harvested"
+      },
+      "topic": "temp_topic__::566928d5a3b6177351b12573bd3e09d8"
+    },
+    {
+      "provenance": {
+        "trust": 0.9,
+        "type": "Harvested"
+      },
+      "topic": "temp_topic__::90f9d61d1a517790656bbd431eaf5413"
+    },
+    {
+      "provenance": {
+        "trust": 0.9,
+        "type": "Harvested"
+      },
+      "topic": "temp_topic__::6efe2f4818f07f1fdd7847da7e8604ad"
+    },
+    {
+      "provenance": {
+        "trust": 0.9,
+        "type": "Harvested"
+      },
+      "topic": "temp_topic__::7fc08fab9a4794f5c767e79b662379a5"
+    },
+    {
+      "provenance": {
+        "trust": 0.9,
+        "type": "Harvested"
+      },
+      "topic": "temp_topic__::4c95445bc2d3284a7fb3d981927fd4d8"
+    }
+  ]
+}
