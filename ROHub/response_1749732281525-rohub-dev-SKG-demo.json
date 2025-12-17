@@ -1,0 +1,2768 @@
+{
+  "@context": [
+    "https://w3id.org/skg-if/context/skg-if.json",
+    {
+      "@base": "https://w3id.org/skg-if/sandbox/oc/",
+      "skg": "https://w3id.org/skg-if/sandbox/oc/",
+      "ro": "http://purl.org/wf4ever/wf4ever#",
+      "rocrate_researchObject": "http://purl.org/wf4ever/wf4ever#ResearchObject",
+      "rocrate_copyright-owner": "http://purl.org/spar/pro/copyright-owner",
+      "rocrate_hasPart": "http://schema.org/hasPart",
+      "rocrate_email": "http://schema.org/email",
+      "rocrate_w3id": "skg:w3id"
+    }
+  ],
+  "@graph": [
+    {
+      "entity_type": "product",
+      "local_identifier": "https://w3id.org/ro-id-dev/702c8963-5f5f-4274-9386-1b82ea8b3097",
+      "identifiers": {
+        "scheme": "rocrate_w3id",
+        "value": "ro-id/702c8963-5f5f-4274-9386-1b82ea8b3097"
+      },
+      "titles": {
+        "none": "The Wawel Dragon"
+      },
+      "abstracts": {
+        "none": "The Wawel Dragon (Polish: Smok Wawelski), also known as the Dragon of Wawel Hill, is a famous dragon in Polish folklore. His lair was in a cave at the foot of Wawel Hill on the bank of the Vistula River. Wawel Hill is in Kraków, which was then the capital of Poland. It was defeated during the rule of Krakus, by his sons according to the earliest account; in a later work, the dragon-slaying is credited to a cobbler named Skuba, or Szewczyk Dratewka."
+      },
+      "contributions": [
+        {
+          "by": "https://w3id.org/ro-id-dev/users/bjaniak%40man.poznan.pl",
+          "role": "author"
+        },
+        {
+          "by": "https://w3id.org/ro-id-dev/users/angela_martin%40gmail.com",
+          "role": "author"
+        },
+        {
+          "by": "https://w3id.org/ro-id-dev/users/rpalma%40man.poznan.pl",
+          "role": "author"
+        }
+      ],
+      "rocrate_hasPart": [
+        {
+          "@id": "https://w3id.org/ro-id-dev/702c8963-5f5f-4274-9386-1b82ea8b3097/.ro/annotations/01e63303-c959-4f5e-b17b-ff782164ee25.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/702c8963-5f5f-4274-9386-1b82ea8b3097/annotations/77890b9e-1312-4fb0-b3af-646d63a08a2f"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/702c8963-5f5f-4274-9386-1b82ea8b3097/.ro/annotations/a90e1670-d448-45cc-b4f2-e097e74d5b8c.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/702c8963-5f5f-4274-9386-1b82ea8b3097/.ro/annotations/f22e047b-f95f-43b2-bcdd-2c1e9e9df34d.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/702c8963-5f5f-4274-9386-1b82ea8b3097/annotations/01e63303-c959-4f5e-b17b-ff782164ee25"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/702c8963-5f5f-4274-9386-1b82ea8b3097/annotations/evo_info"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/702c8963-5f5f-4274-9386-1b82ea8b3097/annotations/a90e1670-d448-45cc-b4f2-e097e74d5b8c"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/702c8963-5f5f-4274-9386-1b82ea8b3097/.ro/evo_info.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/702c8963-5f5f-4274-9386-1b82ea8b3097/.ro/annotations/77890b9e-1312-4fb0-b3af-646d63a08a2f.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/702c8963-5f5f-4274-9386-1b82ea8b3097/annotations/f22e047b-f95f-43b2-bcdd-2c1e9e9df34d"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/702c8963-5f5f-4274-9386-1b82ea8b3097/.ro/annotations/da17d306-5954-4940-99eb-6701893eea62.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/702c8963-5f5f-4274-9386-1b82ea8b3097/resources/db45314a-4477-499c-b03a-45ebac4a20b0"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/702c8963-5f5f-4274-9386-1b82ea8b3097/annotations/da17d306-5954-4940-99eb-6701893eea62"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/702c8963-5f5f-4274-9386-1b82ea8b3097/.ro/annotations/6966fa6f-92f5-4f2d-b9df-058cdda4a2ff.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/702c8963-5f5f-4274-9386-1b82ea8b3097/annotations/6966fa6f-92f5-4f2d-b9df-058cdda4a2ff"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/702c8963-5f5f-4274-9386-1b82ea8b3097/resources/92233ed1-85d7-4130-a5d0-a9743ab627b5"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/702c8963-5f5f-4274-9386-1b82ea8b3097/.ro/annotations/enrichment.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/702c8963-5f5f-4274-9386-1b82ea8b3097/annotations/enrichment"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/702c8963-5f5f-4274-9386-1b82ea8b3097/.ro/annotations/b2ae20c2-2710-411f-9107-5d337400c09f.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/702c8963-5f5f-4274-9386-1b82ea8b3097/annotations/b2ae20c2-2710-411f-9107-5d337400c09f"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/702c8963-5f5f-4274-9386-1b82ea8b3097/annotations/4bfa7b9c-2def-4dd1-a776-1a6b789d6b78"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/702c8963-5f5f-4274-9386-1b82ea8b3097/.ro/annotations/4bfa7b9c-2def-4dd1-a776-1a6b789d6b78.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/702c8963-5f5f-4274-9386-1b82ea8b3097/.ro/annotations/b34b6085-d280-4abe-b7ff-f8f567866b5f.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/702c8963-5f5f-4274-9386-1b82ea8b3097/annotations/b34b6085-d280-4abe-b7ff-f8f567866b5f"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/702c8963-5f5f-4274-9386-1b82ea8b3097/annotations/ce3c871c-540c-4bd3-a15f-7db91d707481"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/702c8963-5f5f-4274-9386-1b82ea8b3097/.ro/annotations/ce3c871c-540c-4bd3-a15f-7db91d707481.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/702c8963-5f5f-4274-9386-1b82ea8b3097/annotations/750e08ee-ca94-4163-8fdf-59eb087d3dad"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/702c8963-5f5f-4274-9386-1b82ea8b3097/resources/c96e9f14-60b7-4236-bb0c-6f9b879562db"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/702c8963-5f5f-4274-9386-1b82ea8b3097/annotations/b6ac194f-4b85-48bf-9fa9-d0b4f8c18d76"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/702c8963-5f5f-4274-9386-1b82ea8b3097/.ro/annotations/b6ac194f-4b85-48bf-9fa9-d0b4f8c18d76.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/702c8963-5f5f-4274-9386-1b82ea8b3097/.ro/annotations/750e08ee-ca94-4163-8fdf-59eb087d3dad.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/702c8963-5f5f-4274-9386-1b82ea8b3097/folders/e3023ad9-8b2c-4b8f-b9b6-b32aee727dc6"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/702c8963-5f5f-4274-9386-1b82ea8b3097/folders/26e4517a-01bb-485d-ae4f-700c6235deb1"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/702c8963-5f5f-4274-9386-1b82ea8b3097/folders/9e727438-a08a-4668-a04c-6f1b404a69c4"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/702c8963-5f5f-4274-9386-1b82ea8b3097/folders/62d6b3dc-2d0b-4604-ab26-7ab6e4e3a6d3"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/702c8963-5f5f-4274-9386-1b82ea8b3097/annotations/93e835e7-dee6-44e0-beae-d7a3c50ded47"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/702c8963-5f5f-4274-9386-1b82ea8b3097/.ro/annotations/93e835e7-dee6-44e0-beae-d7a3c50ded47.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/702c8963-5f5f-4274-9386-1b82ea8b3097/annotations/bcf0acbd-348d-4b01-8a0a-155abe702f91"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/702c8963-5f5f-4274-9386-1b82ea8b3097/resources/8038816c-e6ef-43f2-8eb0-030ff6df8c84"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/702c8963-5f5f-4274-9386-1b82ea8b3097/.ro/annotations/bcf0acbd-348d-4b01-8a0a-155abe702f91.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/702c8963-5f5f-4274-9386-1b82ea8b3097/annotations/8dc55163-aa1e-496f-b673-f5153fd39f6d"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/702c8963-5f5f-4274-9386-1b82ea8b3097/.ro/annotations/8dc55163-aa1e-496f-b673-f5153fd39f6d.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/702c8963-5f5f-4274-9386-1b82ea8b3097/.ro/annotations/1fb5e154-7bf5-45bb-b544-331002cd64ba.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/702c8963-5f5f-4274-9386-1b82ea8b3097/resources/1c483d57-de59-4bb4-a660-66b3e7750c75"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/702c8963-5f5f-4274-9386-1b82ea8b3097/annotations/1fb5e154-7bf5-45bb-b544-331002cd64ba"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/702c8963-5f5f-4274-9386-1b82ea8b3097/.ro/annotations/adf7c4a2-e162-42c1-957e-b079a53ff346.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/702c8963-5f5f-4274-9386-1b82ea8b3097/annotations/adf7c4a2-e162-42c1-957e-b079a53ff346"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/702c8963-5f5f-4274-9386-1b82ea8b3097/resources/4ef68d54-f1a6-4c7c-be89-fd7de3a77691"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/702c8963-5f5f-4274-9386-1b82ea8b3097/annotations/162fbe39-e055-46d8-981d-6b0bc4ef8445"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/702c8963-5f5f-4274-9386-1b82ea8b3097/.ro/annotations/162fbe39-e055-46d8-981d-6b0bc4ef8445.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/702c8963-5f5f-4274-9386-1b82ea8b3097/annotations/b0bd8c18-9496-4ae0-a2c0-b8bc4337e339"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/702c8963-5f5f-4274-9386-1b82ea8b3097/.ro/annotations/b0bd8c18-9496-4ae0-a2c0-b8bc4337e339.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/702c8963-5f5f-4274-9386-1b82ea8b3097/.ro/annotations/c2610c26-876a-431f-9951-0e424a860781.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/702c8963-5f5f-4274-9386-1b82ea8b3097/annotations/c2610c26-876a-431f-9951-0e424a860781"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/702c8963-5f5f-4274-9386-1b82ea8b3097/.ro/annotations/c5940a82-ffb2-4d4e-8c46-19902d01b0ad.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/702c8963-5f5f-4274-9386-1b82ea8b3097/annotations/c5940a82-ffb2-4d4e-8c46-19902d01b0ad"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/702c8963-5f5f-4274-9386-1b82ea8b3097/annotations/eba67afa-dc96-4377-8d9f-d43de2b2d5fe"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/702c8963-5f5f-4274-9386-1b82ea8b3097/.ro/annotations/eba67afa-dc96-4377-8d9f-d43de2b2d5fe.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/702c8963-5f5f-4274-9386-1b82ea8b3097/annotations/679c348c-b848-4600-b25f-98f4eac51394"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/702c8963-5f5f-4274-9386-1b82ea8b3097/.ro/annotations/679c348c-b848-4600-b25f-98f4eac51394.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/702c8963-5f5f-4274-9386-1b82ea8b3097/.ro/annotations/79aa5f1e-1c0a-4892-a41d-ad29f4e9cdb4.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/702c8963-5f5f-4274-9386-1b82ea8b3097/annotations/79aa5f1e-1c0a-4892-a41d-ad29f4e9cdb4"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/702c8963-5f5f-4274-9386-1b82ea8b3097/.ro/annotations/1271555e-9bea-4ff6-8b24-e91cb8475665.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/702c8963-5f5f-4274-9386-1b82ea8b3097/annotations/1271555e-9bea-4ff6-8b24-e91cb8475665"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/702c8963-5f5f-4274-9386-1b82ea8b3097/annotations/d5b6aeb4-53f7-4549-bb03-012fba074752"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/702c8963-5f5f-4274-9386-1b82ea8b3097/.ro/annotations/d5b6aeb4-53f7-4549-bb03-012fba074752.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/702c8963-5f5f-4274-9386-1b82ea8b3097/.ro/annotations/1b6e0037-55dc-454f-9767-3afc7b88aba8.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/702c8963-5f5f-4274-9386-1b82ea8b3097/annotations/1b6e0037-55dc-454f-9767-3afc7b88aba8"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/702c8963-5f5f-4274-9386-1b82ea8b3097/annotations/e76bde56-2458-4974-a862-db325136b166"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/702c8963-5f5f-4274-9386-1b82ea8b3097/.ro/annotations/e76bde56-2458-4974-a862-db325136b166.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/702c8963-5f5f-4274-9386-1b82ea8b3097/annotations/f4047912-c731-4c3e-9864-890a5a01b0c4"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/702c8963-5f5f-4274-9386-1b82ea8b3097/resources/8fce6e6c-2dff-42fb-8756-e1e6da14ab12"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/702c8963-5f5f-4274-9386-1b82ea8b3097/.ro/annotations/f4047912-c731-4c3e-9864-890a5a01b0c4.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/702c8963-5f5f-4274-9386-1b82ea8b3097/.ro/annotations/e3e6d42c-3604-47f0-9200-955509dac534.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/702c8963-5f5f-4274-9386-1b82ea8b3097/annotations/e3e6d42c-3604-47f0-9200-955509dac534"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/702c8963-5f5f-4274-9386-1b82ea8b3097/annotations/c76918d9-9699-4dda-b9a3-ae8eb784389d"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/702c8963-5f5f-4274-9386-1b82ea8b3097/.ro/annotations/c76918d9-9699-4dda-b9a3-ae8eb784389d.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/702c8963-5f5f-4274-9386-1b82ea8b3097/resources/cc7a8eda-0534-47d7-b7d9-326cb9cea1fa"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/702c8963-5f5f-4274-9386-1b82ea8b3097/.ro/annotations/b5f67b63-b150-4361-b503-e16493a18530.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/702c8963-5f5f-4274-9386-1b82ea8b3097/.ro/annotations/e87a9334-0197-410d-a825-35eef0c39bea.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/702c8963-5f5f-4274-9386-1b82ea8b3097/annotations/b5f67b63-b150-4361-b503-e16493a18530"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/702c8963-5f5f-4274-9386-1b82ea8b3097/.ro/annotations/ebff61d4-ecc7-4db1-956a-d0727aa74395.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/702c8963-5f5f-4274-9386-1b82ea8b3097/annotations/e87a9334-0197-410d-a825-35eef0c39bea"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/702c8963-5f5f-4274-9386-1b82ea8b3097/annotations/ebff61d4-ecc7-4db1-956a-d0727aa74395"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/702c8963-5f5f-4274-9386-1b82ea8b3097/.ro/annotations/b876f056-ceb9-47ed-8fbf-61ab30399a2e.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/702c8963-5f5f-4274-9386-1b82ea8b3097/annotations/b876f056-ceb9-47ed-8fbf-61ab30399a2e"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/702c8963-5f5f-4274-9386-1b82ea8b3097/annotations/be667c3b-1014-49c1-8613-954435d1f0aa"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/702c8963-5f5f-4274-9386-1b82ea8b3097/.ro/annotations/be667c3b-1014-49c1-8613-954435d1f0aa.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/702c8963-5f5f-4274-9386-1b82ea8b3097/annotations/fa510b9a-9fa6-44b8-9c90-6ac669c87ba2"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/702c8963-5f5f-4274-9386-1b82ea8b3097/.ro/annotations/7fb30a0d-e46c-4243-b48c-c637fba910e5.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/702c8963-5f5f-4274-9386-1b82ea8b3097/.ro/annotations/fa510b9a-9fa6-44b8-9c90-6ac669c87ba2.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/702c8963-5f5f-4274-9386-1b82ea8b3097/annotations/7fb30a0d-e46c-4243-b48c-c637fba910e5"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/702c8963-5f5f-4274-9386-1b82ea8b3097/annotations/e4dac274-9e22-456d-954c-fa6a51cc5e74"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/702c8963-5f5f-4274-9386-1b82ea8b3097/.ro/annotations/c7b430f9-78b8-4618-a0b9-41fef5ae8e5a.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/702c8963-5f5f-4274-9386-1b82ea8b3097/.ro/annotations/e4dac274-9e22-456d-954c-fa6a51cc5e74.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/702c8963-5f5f-4274-9386-1b82ea8b3097/annotations/e56826c7-5bfe-4d4e-88b6-efffee84463d"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/702c8963-5f5f-4274-9386-1b82ea8b3097/.ro/annotations/e56826c7-5bfe-4d4e-88b6-efffee84463d.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/702c8963-5f5f-4274-9386-1b82ea8b3097/annotations/c7b430f9-78b8-4618-a0b9-41fef5ae8e5a"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/702c8963-5f5f-4274-9386-1b82ea8b3097/annotations/d1cda8f5-9bcc-499f-a473-1cf12c7489fe"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/702c8963-5f5f-4274-9386-1b82ea8b3097/.ro/annotations/d1cda8f5-9bcc-499f-a473-1cf12c7489fe.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/702c8963-5f5f-4274-9386-1b82ea8b3097/.ro/annotations/d397ea48-5219-42b2-9449-444b12f4a08d.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/702c8963-5f5f-4274-9386-1b82ea8b3097/annotations/d397ea48-5219-42b2-9449-444b12f4a08d"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/702c8963-5f5f-4274-9386-1b82ea8b3097/annotations/f1f4f1ac-4b12-457d-b63f-2ae9a3182c7a"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/702c8963-5f5f-4274-9386-1b82ea8b3097/.ro/annotations/f1f4f1ac-4b12-457d-b63f-2ae9a3182c7a.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/702c8963-5f5f-4274-9386-1b82ea8b3097/annotations/e9aa788f-a7ec-4181-8029-4707bf795861"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/702c8963-5f5f-4274-9386-1b82ea8b3097/.ro/annotations/e9aa788f-a7ec-4181-8029-4707bf795861.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/702c8963-5f5f-4274-9386-1b82ea8b3097/annotations/e27e87f6-c329-45a3-b54a-cd6940ec6e28"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/702c8963-5f5f-4274-9386-1b82ea8b3097/.ro/annotations/e27e87f6-c329-45a3-b54a-cd6940ec6e28.ttl"
+        }
+      ],
+      "dates": {
+        "publication": "2022-01-13 13:21:19.531292+00:00",
+        "creation": "2022-01-13 13:21:19.531292+00:00",
+        "modified": "2025-03-03 18:28:13.727808+00:00"
+      },
+      "funding": [
+        "http://w3id.org/ro-id/rohub/model#funding/b2ae20c2-2710-411f-9107-5d337400c09f",
+        "http://w3id.org/ro-id/rohub/model#funding/61e1595a-ee1f-43d1-acd6-87f2bcf3d8b4",
+        "http://w3id.org/ro-id/rohub/model#funding/b34b6085-d280-4abe-b7ff-f8f567866b5f",
+        "http://w3id.org/ro-id/rohub/model#funding/2135ae2d-9056-4c97-a603-2b3edad60cca"
+      ],
+      "topics": "http://eurovoc.europa.eu/4921",
+      "hosting_data_source": "https://doi.org/10.25504/FAIRsharing.d3c5fd"
+    },
+    {
+      "entity_type": "product",
+      "local_identifier": "https://w3id.org/ro-id-dev/4fa0ccd9-3344-4acd-9b19-f9d0c286dc62",
+      "identifiers": {
+        "scheme": "rocrate_w3id",
+        "value": "ro-id/4fa0ccd9-3344-4acd-9b19-f9d0c286dc62"
+      },
+      "titles": {
+        "none": "SWFHIM_20160722_casestudy"
+      },
+      "abstracts": {
+        "none": "Implementation of the Surface Water Flooding Hazard Impact Model (SWF HIM) for testing purposes, using a case study from 22/07/2018."
+      },
+      "contributions": {
+        "by": "http://everest.psnc.pl/users/taldridge",
+        "role": "author"
+      },
+      "rocrate_hasPart": [
+        {
+          "@id": "https://w3id.org/ro-id-dev/4fa0ccd9-3344-4acd-9b19-f9d0c286dc62/annotations/evo_info"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/4fa0ccd9-3344-4acd-9b19-f9d0c286dc62/.ro/evo_info.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/4fa0ccd9-3344-4acd-9b19-f9d0c286dc62/annotations/8fb37044-5835-44f7-8751-b9926cb4ad4a"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/4fa0ccd9-3344-4acd-9b19-f9d0c286dc62/.ro/annotations/a8f6bbcb-b453-4f38-bb64-3b6694c3a6ee.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/4fa0ccd9-3344-4acd-9b19-f9d0c286dc62/annotations/b3e57f16-48e3-4b19-a98d-df4e5f38c8bf"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/4fa0ccd9-3344-4acd-9b19-f9d0c286dc62/.ro/annotations/b3e57f16-48e3-4b19-a98d-df4e5f38c8bf.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/4fa0ccd9-3344-4acd-9b19-f9d0c286dc62/.ro/annotations/7506137b-50a9-45f7-85ce-a147f413837c.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/4fa0ccd9-3344-4acd-9b19-f9d0c286dc62/folders/5cf707dd-cdad-4cd4-b11f-4368dec39b86"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/4fa0ccd9-3344-4acd-9b19-f9d0c286dc62/annotations/14f1b4a4-0bc9-4aca-90a3-5ef40c19fc7b"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/4fa0ccd9-3344-4acd-9b19-f9d0c286dc62/annotations/6ff167f3-eb7f-4d02-9d69-a38d211d50c9"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/4fa0ccd9-3344-4acd-9b19-f9d0c286dc62/.ro/annotations/54a9a0dc-4d87-4903-9866-c6a4433ba60c.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/4fa0ccd9-3344-4acd-9b19-f9d0c286dc62/annotations/000ee47d-75df-4b90-a63b-6b5eb05a3c53"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/4fa0ccd9-3344-4acd-9b19-f9d0c286dc62/folders/809556a8-2b2e-4ef2-8ebe-e6fdbd3409c0"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/4fa0ccd9-3344-4acd-9b19-f9d0c286dc62/folders/262e0fa4-9e77-480d-a3f5-b532d825ee55"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/4fa0ccd9-3344-4acd-9b19-f9d0c286dc62/resources/c9576557-15e6-496f-a6cc-9eecc59217cb"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/4fa0ccd9-3344-4acd-9b19-f9d0c286dc62/annotations/27b51b31-8614-4fdc-a476-ad1c70f735d8"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/4fa0ccd9-3344-4acd-9b19-f9d0c286dc62/folders/cf1293fd-0da8-4f5f-9d49-fd39f9d42074"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/4fa0ccd9-3344-4acd-9b19-f9d0c286dc62/folders/379ea950-3c19-4373-b70a-43634567d6b5"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/4fa0ccd9-3344-4acd-9b19-f9d0c286dc62/annotations/796c031f-887e-4c2c-9313-b85e490a634e"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/4fa0ccd9-3344-4acd-9b19-f9d0c286dc62/annotations/22e39c3e-f9bb-415c-a4f0-4a0972a9b61e"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/4fa0ccd9-3344-4acd-9b19-f9d0c286dc62/.ro/annotations/796c031f-887e-4c2c-9313-b85e490a634e.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/4fa0ccd9-3344-4acd-9b19-f9d0c286dc62/.ro/annotations/def637c6-a574-4344-91f0-a5dd23c1e05a.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/4fa0ccd9-3344-4acd-9b19-f9d0c286dc62/annotations/3e6f6575-0918-487a-a465-88163d8e4d04"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/4fa0ccd9-3344-4acd-9b19-f9d0c286dc62/annotations/54a9a0dc-4d87-4903-9866-c6a4433ba60c"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/4fa0ccd9-3344-4acd-9b19-f9d0c286dc62/annotations/435ec2d9-6bd5-462e-a23b-d5baa967dc63"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/4fa0ccd9-3344-4acd-9b19-f9d0c286dc62/.ro/annotations/8fb37044-5835-44f7-8751-b9926cb4ad4a.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/4fa0ccd9-3344-4acd-9b19-f9d0c286dc62/annotations/306d035f-a94e-465e-a395-5788ed357534"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/4fa0ccd9-3344-4acd-9b19-f9d0c286dc62/.ro/annotations/27b51b31-8614-4fdc-a476-ad1c70f735d8.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/4fa0ccd9-3344-4acd-9b19-f9d0c286dc62/annotations/0adf4d99-630f-4ced-b9a0-5c3684c4fc54"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/4fa0ccd9-3344-4acd-9b19-f9d0c286dc62/resources/9a9e8c6e-4ab9-4d78-a850-997991d1ba34"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/4fa0ccd9-3344-4acd-9b19-f9d0c286dc62/.ro/annotations/435ec2d9-6bd5-462e-a23b-d5baa967dc63.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/4fa0ccd9-3344-4acd-9b19-f9d0c286dc62/folders/ad59b126-b487-4b40-a301-a4725212deb2"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/4fa0ccd9-3344-4acd-9b19-f9d0c286dc62/annotations/7506137b-50a9-45f7-85ce-a147f413837c"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/4fa0ccd9-3344-4acd-9b19-f9d0c286dc62/folders/764f583d-df94-4795-80a4-be2e6e46a660"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/4fa0ccd9-3344-4acd-9b19-f9d0c286dc62/resources/0aa8ad23-bdcf-4327-9587-0bc0b59d79c1"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/4fa0ccd9-3344-4acd-9b19-f9d0c286dc62/folders/9ce77a10-41dc-472d-aba5-988263b9c0fd"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/4fa0ccd9-3344-4acd-9b19-f9d0c286dc62/resources/95593a53-5d19-4cb3-bc04-f287974033e0"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/4fa0ccd9-3344-4acd-9b19-f9d0c286dc62/.ro/annotations/69fe1bcf-3e25-40e0-a7d2-e91206ebd8d7.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/4fa0ccd9-3344-4acd-9b19-f9d0c286dc62/folders/8e845141-7da5-4931-b47d-840ecef8cb35"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/4fa0ccd9-3344-4acd-9b19-f9d0c286dc62/annotations/69fe1bcf-3e25-40e0-a7d2-e91206ebd8d7"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/4fa0ccd9-3344-4acd-9b19-f9d0c286dc62/.ro/annotations/205526ea-8c8d-4331-9a0b-fd20fc596055.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/4fa0ccd9-3344-4acd-9b19-f9d0c286dc62/annotations/205526ea-8c8d-4331-9a0b-fd20fc596055"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/4fa0ccd9-3344-4acd-9b19-f9d0c286dc62/.ro/annotations/6ff167f3-eb7f-4d02-9d69-a38d211d50c9.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/4fa0ccd9-3344-4acd-9b19-f9d0c286dc62/.ro/annotations/58043401-0cf2-4ee4-9065-6e5e112f6889.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/4fa0ccd9-3344-4acd-9b19-f9d0c286dc62/.ro/annotations/000ee47d-75df-4b90-a63b-6b5eb05a3c53.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/4fa0ccd9-3344-4acd-9b19-f9d0c286dc62/annotations/def637c6-a574-4344-91f0-a5dd23c1e05a"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/4fa0ccd9-3344-4acd-9b19-f9d0c286dc62/.ro/annotations/14f1b4a4-0bc9-4aca-90a3-5ef40c19fc7b.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/4fa0ccd9-3344-4acd-9b19-f9d0c286dc62/folders/922bee28-47f7-4f55-a63d-0deb20b9cb22"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/4fa0ccd9-3344-4acd-9b19-f9d0c286dc62/folders/2452b29c-4362-4fd9-8cd6-d799ae75753b"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/4fa0ccd9-3344-4acd-9b19-f9d0c286dc62/annotations/58043401-0cf2-4ee4-9065-6e5e112f6889"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/4fa0ccd9-3344-4acd-9b19-f9d0c286dc62/folders/627c8f66-c11f-4209-8e8f-ded11ee2d6ac"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/4fa0ccd9-3344-4acd-9b19-f9d0c286dc62/annotations/a8f6bbcb-b453-4f38-bb64-3b6694c3a6ee"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/4fa0ccd9-3344-4acd-9b19-f9d0c286dc62/.ro/annotations/0adf4d99-630f-4ced-b9a0-5c3684c4fc54.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/4fa0ccd9-3344-4acd-9b19-f9d0c286dc62/.ro/annotations/6f9941d8-de08-47eb-9123-94f3c2576bbe.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/4fa0ccd9-3344-4acd-9b19-f9d0c286dc62/.ro/annotations/22e39c3e-f9bb-415c-a4f0-4a0972a9b61e.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/4fa0ccd9-3344-4acd-9b19-f9d0c286dc62/.ro/annotations/3e6f6575-0918-487a-a465-88163d8e4d04.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/4fa0ccd9-3344-4acd-9b19-f9d0c286dc62/resources/0a2d9ef9-32e3-4be2-9eb5-e52acb7145de"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/4fa0ccd9-3344-4acd-9b19-f9d0c286dc62/annotations/6f9941d8-de08-47eb-9123-94f3c2576bbe"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/4fa0ccd9-3344-4acd-9b19-f9d0c286dc62/folders/b28b1cfc-4661-4fe0-87d7-0119500d017c"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/4fa0ccd9-3344-4acd-9b19-f9d0c286dc62/folders/4e6da014-8930-4096-b44d-ecfe8f2f324a"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/4fa0ccd9-3344-4acd-9b19-f9d0c286dc62/folders/33ef8329-9c0d-4be7-ad5c-fdcbe2801bdf"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/4fa0ccd9-3344-4acd-9b19-f9d0c286dc62/.ro/annotations/306d035f-a94e-465e-a395-5788ed357534.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/4fa0ccd9-3344-4acd-9b19-f9d0c286dc62/.ro/annotations/enrichment.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/4fa0ccd9-3344-4acd-9b19-f9d0c286dc62/annotations/enrichment"
+        }
+      ],
+      "dates": {
+        "publication": "2018-11-29 16:12:01.011000+00:00",
+        "creation": "2018-11-29 16:12:01.011000+00:00",
+        "modified": "2025-03-03 18:26:14.100189+00:00"
+      },
+      "topics": [
+        "http://w3id.org/ro-id/rohub/model#subject/145102",
+        "http://w3id.org/ro-id/rohub/model#subject/-900704710",
+        "http://w3id.org/ro-id/rohub/model#subject/355318543",
+        "http://w3id.org/ro-id/rohub/model#subject/28204"
+      ],
+      "hosting_data_source": "https://doi.org/10.25504/FAIRsharing.d3c5fd"
+    },
+    {
+      "entity_type": "product",
+      "local_identifier": "https://w3id.org/ro-id-dev/5a05b41b-76ef-4730-936f-4a1a108afb20",
+      "identifiers": {
+        "scheme": "rocrate_w3id",
+        "value": "ro-id/5a05b41b-76ef-4730-936f-4a1a108afb20"
+      },
+      "titles": {
+        "none": "HJN testing case study 2"
+      },
+      "abstracts": {
+        "none": "Testing how case study 2 runs"
+      },
+      "contributions": {
+        "by": "http://everest.psnc.pl/users/hazelnapier",
+        "role": "author"
+      },
+      "rocrate_hasPart": [
+        {
+          "@id": "https://w3id.org/ro-id-dev/5a05b41b-76ef-4730-936f-4a1a108afb20/.ro/evo_info.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/5a05b41b-76ef-4730-936f-4a1a108afb20/folders/53a744a8-c321-4fec-99ba-7b8a70a493ea"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/5a05b41b-76ef-4730-936f-4a1a108afb20/folders/6502e940-1e1c-4363-8aaf-1e5752f2f0f9"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/5a05b41b-76ef-4730-936f-4a1a108afb20/folders/71a702e1-0427-4f06-b61f-c7b282c58d34"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/5a05b41b-76ef-4730-936f-4a1a108afb20/folders/05b59326-9b4f-489c-8540-9e875e129b02"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/5a05b41b-76ef-4730-936f-4a1a108afb20/folders/46f9d968-a7af-4709-a275-3ffe5c68370b"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/5a05b41b-76ef-4730-936f-4a1a108afb20/.ro/annotations/62c74b05-957f-4fd0-a88c-63005ca29f7a.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/5a05b41b-76ef-4730-936f-4a1a108afb20/annotations/2fdffcd3-bb89-4921-af52-968823414f6c"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/5a05b41b-76ef-4730-936f-4a1a108afb20/annotations/9bbec684-2364-477c-8404-f819a2e39d0f"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/5a05b41b-76ef-4730-936f-4a1a108afb20/.ro/annotations/9bbec684-2364-477c-8404-f819a2e39d0f.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/5a05b41b-76ef-4730-936f-4a1a108afb20/.ro/annotations/95fbc3f7-04e8-4113-8aec-520502d80e3a.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/5a05b41b-76ef-4730-936f-4a1a108afb20/annotations/7e6b6453-18f9-460b-a43c-cda6a2059e8f"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/5a05b41b-76ef-4730-936f-4a1a108afb20/.ro/annotations/7e6b6453-18f9-460b-a43c-cda6a2059e8f.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/5a05b41b-76ef-4730-936f-4a1a108afb20/annotations/41c7fcf8-bee2-4fee-a3fe-03803809bd59"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/5a05b41b-76ef-4730-936f-4a1a108afb20/folders/add7a27d-22c2-4751-b374-7f8ff5635697"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/5a05b41b-76ef-4730-936f-4a1a108afb20/folders/04b0692d-a9c0-46df-af0a-88f40792aa05"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/5a05b41b-76ef-4730-936f-4a1a108afb20/annotations/f44db75f-2ae0-40bc-b008-cc713d429685"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/5a05b41b-76ef-4730-936f-4a1a108afb20/.ro/annotations/f44db75f-2ae0-40bc-b008-cc713d429685.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/5a05b41b-76ef-4730-936f-4a1a108afb20/annotations/06127d61-9e24-43dd-bcd1-b2d5671027d1"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/5a05b41b-76ef-4730-936f-4a1a108afb20/annotations/77cb51ac-087e-4cc2-a2d0-3e9a01124cd9"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/5a05b41b-76ef-4730-936f-4a1a108afb20/.ro/annotations/8b8243ba-3cd2-4b3a-90fd-1e281c82b49d.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/5a05b41b-76ef-4730-936f-4a1a108afb20/annotations/c59d7162-6c4a-49b1-a2fb-e9254c22c46f"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/5a05b41b-76ef-4730-936f-4a1a108afb20/annotations/edaec1b3-a9e3-4761-adaf-a18a097085de"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/5a05b41b-76ef-4730-936f-4a1a108afb20/resources/179fc78d-4c14-4f79-a8f4-65ab415feec7"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/5a05b41b-76ef-4730-936f-4a1a108afb20/folders/c5866a60-b513-4e56-8e30-02f5b39b9fc2"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/5a05b41b-76ef-4730-936f-4a1a108afb20/.ro/annotations/06127d61-9e24-43dd-bcd1-b2d5671027d1.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/5a05b41b-76ef-4730-936f-4a1a108afb20/folders/29239a6b-0daf-48ad-b44a-a0616c72771c"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/5a05b41b-76ef-4730-936f-4a1a108afb20/folders/d5be3b26-3ebc-44b9-a7e2-51ec840b8346"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/5a05b41b-76ef-4730-936f-4a1a108afb20/annotations/d505c453-e44a-4106-a1eb-4f4701ba5fb5"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/5a05b41b-76ef-4730-936f-4a1a108afb20/annotations/e60d45b4-883b-4ca8-a8c2-0c58bb993068"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/5a05b41b-76ef-4730-936f-4a1a108afb20/.ro/annotations/b752e7b0-86ed-4ed6-94f8-23eed65b44e1.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/5a05b41b-76ef-4730-936f-4a1a108afb20/.ro/annotations/247be8ee-e175-4db5-8ae3-f34794a3129a.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/5a05b41b-76ef-4730-936f-4a1a108afb20/annotations/8da4acb4-bb97-42a5-8647-16315fdc182d"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/5a05b41b-76ef-4730-936f-4a1a108afb20/.ro/annotations/3b977e73-f578-4ce9-a18b-ac90570b2592.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/5a05b41b-76ef-4730-936f-4a1a108afb20/.ro/annotations/3f366d52-9681-4bbd-a3f6-11a85b305b4e.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/5a05b41b-76ef-4730-936f-4a1a108afb20/annotations/3446d7dc-1ba1-4d01-a45e-68a2873cd554"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/5a05b41b-76ef-4730-936f-4a1a108afb20/resources/59d0aece-d325-4793-9575-6f879a5211e6"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/5a05b41b-76ef-4730-936f-4a1a108afb20/.ro/annotations/b3538518-b0d7-49d2-a5ee-c2b2bbd9c1cc.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/5a05b41b-76ef-4730-936f-4a1a108afb20/annotations/b3538518-b0d7-49d2-a5ee-c2b2bbd9c1cc"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/5a05b41b-76ef-4730-936f-4a1a108afb20/annotations/3b977e73-f578-4ce9-a18b-ac90570b2592"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/5a05b41b-76ef-4730-936f-4a1a108afb20/annotations/62c74b05-957f-4fd0-a88c-63005ca29f7a"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/5a05b41b-76ef-4730-936f-4a1a108afb20/annotations/8b8243ba-3cd2-4b3a-90fd-1e281c82b49d"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/5a05b41b-76ef-4730-936f-4a1a108afb20/.ro/annotations/edaec1b3-a9e3-4761-adaf-a18a097085de.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/5a05b41b-76ef-4730-936f-4a1a108afb20/.ro/annotations/2fdffcd3-bb89-4921-af52-968823414f6c.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/5a05b41b-76ef-4730-936f-4a1a108afb20/.ro/annotations/d505c453-e44a-4106-a1eb-4f4701ba5fb5.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/5a05b41b-76ef-4730-936f-4a1a108afb20/annotations/3f366d52-9681-4bbd-a3f6-11a85b305b4e"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/5a05b41b-76ef-4730-936f-4a1a108afb20/resources/b46555b6-fc4e-4532-b034-5505f2293ec8"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/5a05b41b-76ef-4730-936f-4a1a108afb20/.ro/annotations/8da4acb4-bb97-42a5-8647-16315fdc182d.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/5a05b41b-76ef-4730-936f-4a1a108afb20/.ro/annotations/f25d06b6-5065-46ce-be2c-f4da0858e354.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/5a05b41b-76ef-4730-936f-4a1a108afb20/resources/cbbb7673-2657-4a8f-a013-dca26757e59b"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/5a05b41b-76ef-4730-936f-4a1a108afb20/.ro/annotations/e60d45b4-883b-4ca8-a8c2-0c58bb993068.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/5a05b41b-76ef-4730-936f-4a1a108afb20/folders/27971f38-4fcc-4735-bbe7-622665ac047b"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/5a05b41b-76ef-4730-936f-4a1a108afb20/annotations/247be8ee-e175-4db5-8ae3-f34794a3129a"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/5a05b41b-76ef-4730-936f-4a1a108afb20/folders/40cc0824-44e9-497e-a9fa-55bfedd1dbb5"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/5a05b41b-76ef-4730-936f-4a1a108afb20/folders/779c7b84-a47e-4ded-a969-957fe48468cf"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/5a05b41b-76ef-4730-936f-4a1a108afb20/annotations/b752e7b0-86ed-4ed6-94f8-23eed65b44e1"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/5a05b41b-76ef-4730-936f-4a1a108afb20/.ro/annotations/c59d7162-6c4a-49b1-a2fb-e9254c22c46f.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/5a05b41b-76ef-4730-936f-4a1a108afb20/annotations/f25d06b6-5065-46ce-be2c-f4da0858e354"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/5a05b41b-76ef-4730-936f-4a1a108afb20/folders/36c76a55-771d-427c-8541-6bd74742cad9"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/5a05b41b-76ef-4730-936f-4a1a108afb20/.ro/annotations/41c7fcf8-bee2-4fee-a3fe-03803809bd59.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/5a05b41b-76ef-4730-936f-4a1a108afb20/.ro/annotations/77cb51ac-087e-4cc2-a2d0-3e9a01124cd9.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/5a05b41b-76ef-4730-936f-4a1a108afb20/.ro/annotations/3446d7dc-1ba1-4d01-a45e-68a2873cd554.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/5a05b41b-76ef-4730-936f-4a1a108afb20/annotations/95fbc3f7-04e8-4113-8aec-520502d80e3a"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/5a05b41b-76ef-4730-936f-4a1a108afb20/folders/fd7bb374-b7c1-4e5d-be71-1e3c61e531b1"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/5a05b41b-76ef-4730-936f-4a1a108afb20/annotations/evo_info"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/5a05b41b-76ef-4730-936f-4a1a108afb20/.ro/annotations/enrichment.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/5a05b41b-76ef-4730-936f-4a1a108afb20/annotations/enrichment"
+        }
+      ],
+      "dates": {
+        "publication": "2018-11-15 12:54:20.109000+00:00",
+        "creation": "2018-11-15 12:54:20.109000+00:00",
+        "modified": "2025-03-03 18:02:37.752536+00:00"
+      },
+      "topics": [
+        "http://w3id.org/ro-id/rohub/model#subject/145102",
+        "http://w3id.org/ro-id/rohub/model#subject/-900704710",
+        "http://w3id.org/ro-id/rohub/model#subject/27518",
+        "http://w3id.org/ro-id/rohub/model#subject/101003061",
+        "http://w3id.org/ro-id/rohub/model#subject/2119523622",
+        "http://w3id.org/ro-id/rohub/model#subject/101305436",
+        "http://w3id.org/ro-id/rohub/model#subject/1016945959"
+      ],
+      "hosting_data_source": "https://doi.org/10.25504/FAIRsharing.d3c5fd"
+    },
+    {
+      "entity_type": "product",
+      "local_identifier": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f",
+      "identifiers": {
+        "scheme": "rocrate_w3id",
+        "value": "ro-id/61a7b329-4705-4b43-a18b-1271cfddf86f"
+      },
+      "titles": {
+        "none": "HJN testing case study 3"
+      },
+      "abstracts": {
+        "none": "Test if case study 3 produces results"
+      },
+      "contributions": {
+        "by": "http://everest.psnc.pl/users/hazelnapier",
+        "role": "author"
+      },
+      "rocrate_hasPart": [
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/.ro/annotations/545804b4-e400-40ca-8a05-7650525be76f.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/.ro/annotations/01f037d6-28f0-421a-8b83-e9b2834ab46c.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/annotations/8d93dfc9-aaee-4303-8861-8dd852b60351"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/folders/a809d7bf-0c67-45e3-a224-dfa3e32ac2d4"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/annotations/e30daa4f-2aec-41fd-8bb7-d8cc43b74fff"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/annotations/c1d8581f-2d42-4ee5-a499-7939f7abb957"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/.ro/annotations/c1d8581f-2d42-4ee5-a499-7939f7abb957.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/.ro/annotations/27c835e7-3f41-40b4-ba46-967ee66727b0.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/annotations/5470e251-cdb8-46a6-b6c1-3b30039623c4"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/annotations/c4f300ba-994b-4734-bbfc-4cc634dfcbea"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/annotations/8e55b929-b0aa-4af1-98cd-191c8c962a1a"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/folders/5b2373c6-5534-4947-aa97-6ff9039dc563"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/folders/7d91743d-4776-486d-9806-f3fde47d62f7"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/annotations/af7e3f61-473e-4637-8664-fd0d522a349f"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/annotations/7e8b1931-0bab-40df-9de7-be4e518d8d31"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/.ro/annotations/7e8b1931-0bab-40df-9de7-be4e518d8d31.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/annotations/b64048f2-f118-4249-a60f-7d1266b5df95"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/annotations/c29e712a-6612-42b7-b40a-b518e1317c1a"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/annotations/e49ebc50-7cd0-4b71-9a49-2593f6ae9489"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/resources/7dacd0e1-67f7-4d53-99ea-5ffbecc46dcc"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/resources/9d08ae04-4f42-492b-a803-5db689f10ded"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/.ro/annotations/5470e251-cdb8-46a6-b6c1-3b30039623c4.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/.ro/annotations/35298b2a-8117-48ea-8d54-028180436b27.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/.ro/annotations/c4f300ba-994b-4734-bbfc-4cc634dfcbea.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/resources/b43bbde2-ee57-424b-8334-99a01a692a06"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/.ro/annotations/142db71e-2f6b-4127-b033-f741abc6378c.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/folders/e7de2650-e972-4e07-93df-87e85c0855c2"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/folders/6f5b3d67-791c-4f81-af97-6f6ba701c85f"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/folders/f77e0652-de3f-4bc5-999a-ff9bae7b0700"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/.ro/annotations/15d908e9-a17f-4f18-bd00-817919fec024.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/.ro/annotations/7f059541-5ec4-48e1-8551-195bd2315e61.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/.ro/annotations/9be1c660-7d3e-47f6-b101-8bed7f0d4010.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/folders/d358304f-fff3-4977-b1d0-2c73b822b332"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/annotations/f2a8b78d-0601-406d-ace1-98539daf1aa6"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/resources/bc40573e-6397-4ebc-8d25-64b0a89d2ea3"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/annotations/545804b4-e400-40ca-8a05-7650525be76f"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/folders/f75bca72-28e9-48e4-b382-5962a524e536"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/.ro/annotations/d24feebe-89ad-48a7-a4ce-4c48f57acbff.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/resources/2d4d1df1-a1d1-4db5-b551-97e9b25f95aa"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/annotations/38ece5b3-8c99-4d01-adb5-a5667926457c"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/.ro/annotations/1ec92e7d-6924-44da-bf36-598d2af84945.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/annotations/de2d0d2a-f53a-4992-a2c5-582199efb9d7"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/annotations/05215c1a-88e9-4920-952f-606e17e25399"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/.ro/annotations/c29e712a-6612-42b7-b40a-b518e1317c1a.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/folders/43b5edc6-4616-4ac9-a026-7bd9f4cc02a5"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/resources/ec68f79c-4c84-42f5-93e8-8d5beec3d765"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/.ro/annotations/68891511-3d26-4599-8795-42a1ccdd264f.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/annotations/3823e784-c609-4dda-a1c2-c545c91f40d0"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/.ro/annotations/e81468bc-eaf3-42e0-8661-1729f543b583.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/annotations/27c835e7-3f41-40b4-ba46-967ee66727b0"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/folders/6e4abc3a-65ba-436f-abb4-06f8f42e411c"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/resources/8ae8a153-8aa8-4d06-9e39-ab5df1e8bc56"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/.ro/annotations/cd7e4de1-499d-4850-b269-f38b8a98b3e4.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/.ro/annotations/22952860-6fd0-4a99-aa9f-4f7b0c678a77.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/annotations/78ed7a26-b879-4a4e-a7c9-47d133254f51"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/.ro/annotations/78ed7a26-b879-4a4e-a7c9-47d133254f51.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/.ro/annotations/8a94a2ee-0cdc-4607-82bc-e660584ae3d9.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/resources/196c9451-8720-4fbc-a513-b16f705962cf"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/.ro/annotations/05215c1a-88e9-4920-952f-606e17e25399.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/resources/d4104b9a-28da-49c5-a0e9-4a6190690b60"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/.ro/annotations/981edc0e-9004-4d12-90c3-9dd28616a2c2.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/annotations/e90d0e5f-aebc-41c0-832d-13a4a140fb98"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/resources/b83f2ec0-2965-43f8-90b7-9e3a78b66af9"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/annotations/acfa3d5b-e90e-45b6-9695-02d1fe5cb48d"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/annotations/9b103f4a-68e1-476a-aa50-4be461ee408b"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/resources/92fd7077-d333-416a-8b70-6b98f46086ba"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/annotations/bf9edfca-7c2e-4f1e-88fa-f8efe0479e3b"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/annotations/01f037d6-28f0-421a-8b83-e9b2834ab46c"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/resources/edeb20d3-08f5-4117-b974-1693b9d1ab0b"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/annotations/18502d52-468a-49cf-8678-a73038b07149"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/.ro/annotations/db27d210-a36a-4290-a1e9-abf8649575d6.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/folders/bb7802aa-bd6a-4261-9867-58ab5f9d2275"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/.ro/annotations/8c49c15b-c34c-4ef5-a562-3685373e0051.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/resources/839d2cdc-1fcd-4f89-a406-2e0641deeb19"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/.ro/annotations/80c3c8b2-6d1a-49be-bc4c-3707b4fb520e.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/annotations/63c70935-1bca-4207-86d5-bd5327806758"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/.ro/annotations/d8453023-122b-4e97-8667-a5fe5803722a.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/.ro/annotations/9cee27e0-20bc-434d-961d-6dfc545785a0.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/annotations/e81468bc-eaf3-42e0-8661-1729f543b583"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/resources/7f86832f-b0f9-4cdc-90d9-32bd726f6d0a"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/annotations/68891511-3d26-4599-8795-42a1ccdd264f"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/.ro/annotations/18502d52-468a-49cf-8678-a73038b07149.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/folders/8acdc6f2-8997-43e9-8782-1df64eb05fca"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/annotations/8a94a2ee-0cdc-4607-82bc-e660584ae3d9"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/resources/a28c6ac5-ed46-4eb9-b070-378c27465330"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/annotations/ccecae72-7c82-40ef-bf30-48b53799fdc0"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/resources/c7141c72-0f67-4c10-aa18-06a802ca60d1"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/resources/128310f8-44b6-46b6-8b0d-fd51387904ed"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/annotations/472304fb-1ae9-413f-8ca0-a94c0c4bacae"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/.ro/annotations/472304fb-1ae9-413f-8ca0-a94c0c4bacae.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/.ro/annotations/54090e53-103f-4dbe-ab81-e4a2f9435287.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/resources/39d86dab-e4d2-45f8-a652-e1b25606ef62"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/resources/c911f002-efd1-4416-9ca1-e4b2c817fd46"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/resources/1228973e-dbed-4772-86de-90f201eb6a5c"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/annotations/3950abb2-b4a2-4649-8ba3-37a94828ee29"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/.ro/annotations/3950abb2-b4a2-4649-8ba3-37a94828ee29.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/annotations/a7b209ee-9a8c-4541-baf1-7607fea19c8e"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/.ro/annotations/f1800f82-549b-4fe6-be75-6c71781879bd.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/.ro/annotations/b64048f2-f118-4249-a60f-7d1266b5df95.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/.ro/annotations/bb31837c-09bd-40a3-af74-f9b75773c279.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/resources/8209a249-af45-46f2-a01d-7137bd95526d"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/resources/4a5a3812-4bd8-45c4-b577-ec2c55b4569f"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/resources/3c22ef52-eaab-4b74-a27a-2ca65c5cad11"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/annotations/ceb5359e-3492-4319-8ac9-0298f7574722"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/annotations/e8c6d028-d487-48e7-b5d2-617c5182a736"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/resources/dccc94f5-cb2f-43d9-a005-ca6eb4be3146"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/annotations/cd7e4de1-499d-4850-b269-f38b8a98b3e4"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/annotations/3b446ac7-c99f-42d3-bd48-e16e9f9b4121"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/.ro/annotations/a76f637f-9223-43ca-aa0e-bc2785537463.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/.ro/annotations/e0314d11-12f7-4677-a4f1-d407716f9a30.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/annotations/a76f637f-9223-43ca-aa0e-bc2785537463"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/annotations/7f738ed3-bbd5-450f-9daa-36aafd3731e4"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/.ro/annotations/7f738ed3-bbd5-450f-9daa-36aafd3731e4.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/annotations/384ee0ab-8805-47b4-ada6-103e7d8e47b3"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/annotations/8df8e25b-8b80-4d94-ad05-bf85c3d4b823"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/resources/fe8c8ff5-f736-4534-91a3-549394ef1280"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/resources/a5f64845-7caf-46a4-9c92-fdc39fb32986"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/annotations/bb31837c-09bd-40a3-af74-f9b75773c279"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/resources/d4d8a408-7273-4852-bd3e-d35ef79e39b2"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/annotations/2d652f4a-9e3a-40b6-9d6b-84c30fa2e8d5"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/.ro/annotations/8df8e25b-8b80-4d94-ad05-bf85c3d4b823.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/.ro/annotations/4eb8feb0-8938-4738-99cd-0e120ff21273.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/resources/ce0c33d1-6894-4b96-9081-9ee94e2d590c"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/resources/4b354749-55ea-472a-8105-0646f4202842"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/annotations/88b021a8-2b3d-4c33-805a-6c6a42c3a21f"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/.ro/annotations/927131a8-7600-43ef-b55e-82830aa0ca0a.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/resources/218dff45-1ed5-4b3d-8dd0-593f4325bd08"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/annotations/401b71a0-2411-4daa-8dcc-c0ccdaf5eebe"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/resources/703569b9-08e7-4c7a-ada1-5b9fe16e4832"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/annotations/enrichment"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/.ro/annotations/enrichment.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/annotations/evo_info"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/.ro/evo_info.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/resources/90018f4e-5d59-40cc-9491-e474b52e47ca"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/resources/e5bd956c-5a83-4cee-bb34-05843250f358"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/.ro/annotations/a71e9957-4a5e-496a-bc1e-ec24e62249c8.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/annotations/1e0b13bb-6698-4ab1-9eb9-e1868f00e879"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/.ro/annotations/88b021a8-2b3d-4c33-805a-6c6a42c3a21f.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/.ro/annotations/9eb14e29-ef5d-4b1e-a7b0-54cd204c037c.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/folders/ec26dab5-7fbf-4091-9ecd-00c7518b9c4f"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/.ro/annotations/d0c44d73-e75d-434e-a9ed-ff9d6bd69f9b.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/annotations/c00fadcf-14a2-4004-9a99-f61a01c96ebf"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/resources/f50b61fe-0e79-46e6-9f80-7be76fce511b"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/resources/e81cfdb0-06a0-4735-aed9-c453f7ab059c"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/annotations/9cee27e0-20bc-434d-961d-6dfc545785a0"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/resources/862a9092-608c-46f3-8172-6af31133722e"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/annotations/13409128-b4c6-4989-8a87-1abf7121b87e"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/annotations/525916da-6643-4ae6-b2a6-5026db5b2fb7"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/.ro/annotations/f2a8b78d-0601-406d-ace1-98539daf1aa6.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/resources/dd1535e2-9a16-4448-9d61-bbb21b6f9944"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/resources/84299564-41d5-47af-bb0e-68158157db1a"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/.ro/annotations/af7e3f61-473e-4637-8664-fd0d522a349f.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/annotations/d5b43659-2293-44bf-adff-feb9cda69443"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/folders/4012b0f7-b595-40eb-b37b-1a4025692e68"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/annotations/0cfd2d23-f74f-4f70-a256-858ac7f60e6c"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/.ro/annotations/c00fadcf-14a2-4004-9a99-f61a01c96ebf.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/annotations/d8453023-122b-4e97-8667-a5fe5803722a"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/resources/3bde8e8b-d0c3-4db1-8790-a121e42af12e"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/annotations/1894cc98-dee1-425e-a7c9-996891ff69ad"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/.ro/annotations/1894cc98-dee1-425e-a7c9-996891ff69ad.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/annotations/db27d210-a36a-4290-a1e9-abf8649575d6"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/.ro/annotations/401b71a0-2411-4daa-8dcc-c0ccdaf5eebe.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/.ro/annotations/0d4cb049-971c-424d-b464-6f5877aa3f91.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/resources/683b991c-0bb2-4377-9ea1-b144bd9c507d"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/annotations/af9bc95a-7aa9-4354-a508-de6e5ae754f6"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/resources/0d2e2d34-08fd-4a7e-ba10-395d8421989c"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/.ro/annotations/8474df22-1179-419e-b9e2-a32c2bdc98c4.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/annotations/927131a8-7600-43ef-b55e-82830aa0ca0a"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/.ro/annotations/3b446ac7-c99f-42d3-bd48-e16e9f9b4121.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/resources/776470bb-f800-4bc5-a13d-9148e8668870"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/.ro/annotations/3823e784-c609-4dda-a1c2-c545c91f40d0.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/annotations/54090e53-103f-4dbe-ab81-e4a2f9435287"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/.ro/annotations/e90d0e5f-aebc-41c0-832d-13a4a140fb98.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/folders/8b301ffb-40d5-4c21-a349-3bc7095a496d"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/.ro/annotations/633c5daf-08ce-4c5f-8003-b81704a4c5e2.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/resources/e1ba73a3-17da-4a36-b3e1-801839da984e"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/resources/c6c2f711-9208-4acc-91b9-bdf4b2057877"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/.ro/annotations/acfa3d5b-e90e-45b6-9695-02d1fe5cb48d.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/annotations/0b54d650-9bb5-45c1-80ed-6c1cbd26ed3e"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/.ro/annotations/0b54d650-9bb5-45c1-80ed-6c1cbd26ed3e.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/.ro/annotations/0cfd2d23-f74f-4f70-a256-858ac7f60e6c.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/resources/9c5f2561-8304-45a9-b810-51de944b66e8"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/annotations/d24feebe-89ad-48a7-a4ce-4c48f57acbff"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/.ro/annotations/012ac3a4-1899-48ae-b37c-08d13c3a975b.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/resources/74e2da8c-ccf2-48cd-baa9-330d17ffd3dc"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/annotations/f1800f82-549b-4fe6-be75-6c71781879bd"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/resources/83223fe9-c6f5-48e4-9962-009b6ef7ed85"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/.ro/annotations/1e0b13bb-6698-4ab1-9eb9-e1868f00e879.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/.ro/annotations/3f469cbf-23d5-4a76-8674-bf6c00abeb3f.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/resources/ce056deb-08f5-4f41-91c1-e62dc268042a"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/annotations/7f059541-5ec4-48e1-8551-195bd2315e61"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/.ro/annotations/e49ebc50-7cd0-4b71-9a49-2593f6ae9489.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/resources/9f505d8a-8b83-462b-bb9e-0a1450533e0e"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/annotations/eb2d4661-b608-40aa-b47d-65a811862673"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/resources/2e57d130-9db0-4db8-b51f-546f31b2310c"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/.ro/annotations/a7b209ee-9a8c-4541-baf1-7607fea19c8e.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/annotations/1ec92e7d-6924-44da-bf36-598d2af84945"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/annotations/e0314d11-12f7-4677-a4f1-d407716f9a30"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/.ro/annotations/8e55b929-b0aa-4af1-98cd-191c8c962a1a.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/.ro/annotations/e8c6d028-d487-48e7-b5d2-617c5182a736.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/annotations/d0c44d73-e75d-434e-a9ed-ff9d6bd69f9b"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/resources/06f335c7-b9e6-4776-8a6c-978a1a0bb866"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/annotations/187cf04b-bf97-4a41-a8ab-d50ea278daea"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/resources/fd5c5582-fac5-459a-81de-9eba63c7b645"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/.ro/annotations/384ee0ab-8805-47b4-ada6-103e7d8e47b3.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/.ro/annotations/e30daa4f-2aec-41fd-8bb7-d8cc43b74fff.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/annotations/8f95b146-8828-43fe-8e68-ca93ace0527a"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/annotations/9eb14e29-ef5d-4b1e-a7b0-54cd204c037c"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/resources/644d6e20-08bf-496a-b171-c6f47565c5ad"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/.ro/annotations/eacf0d5d-d977-43bd-8a27-66bbe2e4dafc.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/.ro/annotations/bf9edfca-7c2e-4f1e-88fa-f8efe0479e3b.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/annotations/35298b2a-8117-48ea-8d54-028180436b27"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/resources/0ae0f6f6-c38f-4606-b0dd-1c801311da3d"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/folders/29d9b0b9-d7d6-4ce7-a0c9-ce1fe063d5ce"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/.ro/annotations/9b103f4a-68e1-476a-aa50-4be461ee408b.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/resources/ef845ee2-929d-46c1-bcfc-5817222ba1ba"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/folders/7dbca830-83e0-402d-afb2-a12f6bc75ed6"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/.ro/annotations/b6b557e4-549e-495c-9a83-52261126b541.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/.ro/annotations/187cf04b-bf97-4a41-a8ab-d50ea278daea.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/.ro/annotations/af9bc95a-7aa9-4354-a508-de6e5ae754f6.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/annotations/a71e9957-4a5e-496a-bc1e-ec24e62249c8"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/folders/b9544295-774f-4a3e-8d32-ad84100fa4bb"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/resources/daf0d2b0-bba2-470f-b52a-878ef33965f3"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/annotations/eacf0d5d-d977-43bd-8a27-66bbe2e4dafc"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/folders/ccc1415f-55f7-4cc1-ad61-3b7cb5062a34"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/.ro/annotations/ccecae72-7c82-40ef-bf30-48b53799fdc0.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/resources/8f03bd4e-72d0-4097-a08b-848ce93803cb"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/.ro/annotations/74c6e017-9bca-4879-bfb8-09ba1a11bbb6.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/resources/8b2459b6-b0f0-4054-8025-0e2720cfda0b"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/annotations/8c49c15b-c34c-4ef5-a562-3685373e0051"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/annotations/9be1c660-7d3e-47f6-b101-8bed7f0d4010"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/resources/81b43042-fa50-4b67-8295-e07685dd1a39"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/.ro/annotations/13409128-b4c6-4989-8a87-1abf7121b87e.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/.ro/annotations/522a0d92-24c8-4519-a783-bd7d5ac32bf0.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/.ro/annotations/63c70935-1bca-4207-86d5-bd5327806758.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/resources/5a9e3679-0cfb-479a-b4e3-aafa36ef4a72"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/resources/7bd57fc7-e195-438e-8df6-fd649218b657"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/annotations/22952860-6fd0-4a99-aa9f-4f7b0c678a77"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/annotations/80c3c8b2-6d1a-49be-bc4c-3707b4fb520e"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/annotations/0d4cb049-971c-424d-b464-6f5877aa3f91"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/resources/793548ac-8384-428d-adcb-980183b22d54"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/annotations/981edc0e-9004-4d12-90c3-9dd28616a2c2"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/annotations/142db71e-2f6b-4127-b033-f741abc6378c"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/annotations/522a0d92-24c8-4519-a783-bd7d5ac32bf0"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/.ro/annotations/8f95b146-8828-43fe-8e68-ca93ace0527a.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/annotations/74c6e017-9bca-4879-bfb8-09ba1a11bbb6"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/annotations/012ac3a4-1899-48ae-b37c-08d13c3a975b"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/resources/1760a4d9-67c2-4578-a56c-34e5059cf272"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/resources/fce5f400-c363-454b-9840-1e6f077b8210"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/resources/b5ba971a-e290-4fe8-b806-e241c3382afa"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/annotations/8bcc9f56-d1d5-4683-a1b5-ce1bb37d34b9"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/annotations/8474df22-1179-419e-b9e2-a32c2bdc98c4"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/resources/a24b23e6-a19a-46b0-9ae9-56717ce8794e"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/annotations/b6b557e4-549e-495c-9a83-52261126b541"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/.ro/annotations/ec9c87ae-e62a-4bfa-98d1-5f892f4b643f.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/annotations/4eb8feb0-8938-4738-99cd-0e120ff21273"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/.ro/annotations/eb2d4661-b608-40aa-b47d-65a811862673.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/annotations/0ba70b5c-1545-4b89-96cd-20b1b32f21c7"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/.ro/annotations/de2d0d2a-f53a-4992-a2c5-582199efb9d7.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/resources/837ed779-8c6d-4beb-b9d5-cf26f093a010"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/resources/f78be03e-ae92-44b0-ae09-4ef93861156c"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/.ro/annotations/0ba70b5c-1545-4b89-96cd-20b1b32f21c7.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/annotations/3f469cbf-23d5-4a76-8674-bf6c00abeb3f"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/.ro/annotations/8d93dfc9-aaee-4303-8861-8dd852b60351.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/resources/a6303c17-268d-4fdc-aa70-6b7eb4532e2a"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/annotations/15d908e9-a17f-4f18-bd00-817919fec024"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/resources/548dadc7-ac96-4b30-a7aa-0061e0c40041"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/annotations/ec9c87ae-e62a-4bfa-98d1-5f892f4b643f"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/.ro/annotations/d5b43659-2293-44bf-adff-feb9cda69443.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/.ro/annotations/ceb5359e-3492-4319-8ac9-0298f7574722.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/resources/38d91d6d-58f5-4923-9a99-1d2c7dfdf028"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/annotations/633c5daf-08ce-4c5f-8003-b81704a4c5e2"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/.ro/annotations/2d652f4a-9e3a-40b6-9d6b-84c30fa2e8d5.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/.ro/annotations/525916da-6643-4ae6-b2a6-5026db5b2fb7.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/resources/fc8ab609-174a-40e4-9ee3-a6bcfe522e11"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/resources/ebb5e7d4-61fa-4b7d-9f59-3ea08f488402"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/resources/b05c5181-1006-467d-b85b-e8142a3cc207"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/.ro/annotations/38ece5b3-8c99-4d01-adb5-a5667926457c.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/61a7b329-4705-4b43-a18b-1271cfddf86f/.ro/annotations/8bcc9f56-d1d5-4683-a1b5-ce1bb37d34b9.ttl"
+        }
+      ],
+      "dates": {
+        "publication": "2018-11-15 12:06:31.955000+00:00",
+        "creation": "2018-11-15 12:06:31.955000+00:00",
+        "modified": "2025-03-03 18:02:38.057025+00:00"
+      },
+      "topics": [
+        "http://w3id.org/ro-id/rohub/model#subject/145102",
+        "http://w3id.org/ro-id/rohub/model#subject/-900704710",
+        "http://w3id.org/ro-id/rohub/model#subject/2119523622"
+      ],
+      "hosting_data_source": "https://doi.org/10.25504/FAIRsharing.d3c5fd"
+    },
+    {
+      "entity_type": "product",
+      "local_identifier": "https://w3id.org/ro-id-dev/3ae64b18-ec09-46db-916a-0de8e93ee425",
+      "identifiers": {
+        "scheme": "rocrate_w3id",
+        "value": "ro-id/3ae64b18-ec09-46db-916a-0de8e93ee425"
+      },
+      "titles": {
+        "none": "NHP Daily Hazard Assessment 2017-10-01 1402"
+      },
+      "abstracts": {
+        "none": "Daily Hazard Assessment and supporting documents generated by the Met Office: NSWWS and fgs-statements"
+      },
+      "contributions": {
+        "by": "http://rohub.org/users/portal/ead672e7737d3af7bf6af5476e8363b2",
+        "role": "author"
+      },
+      "rocrate_hasPart": [
+        {
+          "@id": "https://w3id.org/ro-id-dev/3ae64b18-ec09-46db-916a-0de8e93ee425/.ro/annotations/fbbfe227-759a-4b56-8da4-d242e4ebdd4d.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/3ae64b18-ec09-46db-916a-0de8e93ee425/resources/62733ebe-5757-49b6-ad2a-cf2c2cf1f614"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/3ae64b18-ec09-46db-916a-0de8e93ee425/resources/085d72ac-47b9-4f6d-b719-785d2c632d6c"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/3ae64b18-ec09-46db-916a-0de8e93ee425/.ro/annotations/d1e476e8-9b65-42a0-9fdc-b91e8957ba7f.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/3ae64b18-ec09-46db-916a-0de8e93ee425/resources/5a3d7942-e6cf-4e15-9633-0229acca5cc1"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/3ae64b18-ec09-46db-916a-0de8e93ee425/annotations/d1e476e8-9b65-42a0-9fdc-b91e8957ba7f"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/3ae64b18-ec09-46db-916a-0de8e93ee425/annotations/d1307fdf-b960-4a4b-8f48-cababf7ff570"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/3ae64b18-ec09-46db-916a-0de8e93ee425/annotations/a69e425f-81e4-4f4c-ba95-aee98772cebb"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/3ae64b18-ec09-46db-916a-0de8e93ee425/.ro/annotations/6da7b4f9-cbf2-4cde-997d-29bd8b087737.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/3ae64b18-ec09-46db-916a-0de8e93ee425/annotations/6da7b4f9-cbf2-4cde-997d-29bd8b087737"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/3ae64b18-ec09-46db-916a-0de8e93ee425/.ro/annotations/a69e425f-81e4-4f4c-ba95-aee98772cebb.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/3ae64b18-ec09-46db-916a-0de8e93ee425/.ro/annotations/d1307fdf-b960-4a4b-8f48-cababf7ff570.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/3ae64b18-ec09-46db-916a-0de8e93ee425/annotations/fbbfe227-759a-4b56-8da4-d242e4ebdd4d"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/3ae64b18-ec09-46db-916a-0de8e93ee425/.ro/annotations/enrichment.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/3ae64b18-ec09-46db-916a-0de8e93ee425/annotations/enrichment"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/3ae64b18-ec09-46db-916a-0de8e93ee425/annotations/evo_info"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/3ae64b18-ec09-46db-916a-0de8e93ee425/.ro/evo_info.ttl"
+        }
+      ],
+      "dates": {
+        "publication": "2018-11-13 17:22:05.996000+00:00",
+        "creation": "2018-11-13 17:22:05.996000+00:00",
+        "modified": "2025-03-03 18:10:35.064340+00:00"
+      },
+      "topics": [
+        "http://w3id.org/ro-id/rohub/model#subject/382133316",
+        "http://w3id.org/ro-id/rohub/model#subject/49157",
+        "http://w3id.org/ro-id/rohub/model#subject/695603906",
+        "http://w3id.org/ro-id/rohub/model#subject/-812217817",
+        "http://w3id.org/ro-id/rohub/model#subject/12626011",
+        "http://w3id.org/ro-id/rohub/model#subject/-637276278",
+        "http://w3id.org/ro-id/rohub/model#subject/16240336",
+        "http://w3id.org/ro-id/rohub/model#subject/970042628",
+        "http://w3id.org/ro-id/rohub/model#subject/-1993013840",
+        "http://w3id.org/ro-id/rohub/model#subject/-1445077896",
+        "http://w3id.org/ro-id/rohub/model#subject/-809756234",
+        "http://w3id.org/ro-id/rohub/model#subject/-418800704",
+        "http://w3id.org/ro-id/rohub/model#subject/48833",
+        "http://w3id.org/ro-id/rohub/model#subject/65403",
+        "http://w3id.org/ro-id/rohub/model#subject/140439",
+        "http://eurovoc.europa.eu/6715",
+        "http://w3id.org/ro-id/rohub/model#subject/65657"
+      ],
+      "hosting_data_source": "https://doi.org/10.25504/FAIRsharing.d3c5fd"
+    },
+    {
+      "entity_type": "product",
+      "local_identifier": "https://w3id.org/ro-id-dev/bb109b5d-f5d8-4667-a566-5993f050b592",
+      "identifiers": {
+        "scheme": "rocrate_w3id",
+        "value": "ro-id/bb109b5d-f5d8-4667-a566-5993f050b592"
+      },
+      "titles": {
+        "none": "NHP Daily Hazard Assessment 2017-08-14 1402"
+      },
+      "abstracts": {
+        "none": "Daily Hazard Assessment and supporting documents generated by the Met Office: NSWWS and fgs-statements"
+      },
+      "contributions": {
+        "by": "http://rohub.org/users/portal/ead672e7737d3af7bf6af5476e8363b2",
+        "role": "author"
+      },
+      "rocrate_hasPart": [
+        {
+          "@id": "https://w3id.org/ro-id-dev/bb109b5d-f5d8-4667-a566-5993f050b592/annotations/evo_info"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/bb109b5d-f5d8-4667-a566-5993f050b592/.ro/evo_info.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/bb109b5d-f5d8-4667-a566-5993f050b592/resources/48d519af-a4a5-4379-9934-c798718d06ed"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/bb109b5d-f5d8-4667-a566-5993f050b592/annotations/36afa773-66a4-4904-ace6-a489ce9c709c"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/bb109b5d-f5d8-4667-a566-5993f050b592/resources/f9c65fda-ac3a-4952-9ffa-874257cc18f3"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/bb109b5d-f5d8-4667-a566-5993f050b592/annotations/09e7ca18-ecb6-4984-96f2-dccda0e63419"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/bb109b5d-f5d8-4667-a566-5993f050b592/annotations/fe140ad4-8690-44de-81b7-ae8db9ad6c5e"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/bb109b5d-f5d8-4667-a566-5993f050b592/.ro/annotations/fe140ad4-8690-44de-81b7-ae8db9ad6c5e.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/bb109b5d-f5d8-4667-a566-5993f050b592/.ro/annotations/09e7ca18-ecb6-4984-96f2-dccda0e63419.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/bb109b5d-f5d8-4667-a566-5993f050b592/annotations/8fc860a5-c115-48fc-905e-1f13d74c9c24"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/bb109b5d-f5d8-4667-a566-5993f050b592/.ro/annotations/8fc860a5-c115-48fc-905e-1f13d74c9c24.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/bb109b5d-f5d8-4667-a566-5993f050b592/.ro/annotations/36afa773-66a4-4904-ace6-a489ce9c709c.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/bb109b5d-f5d8-4667-a566-5993f050b592/.ro/annotations/enrichment.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/bb109b5d-f5d8-4667-a566-5993f050b592/annotations/enrichment"
+        }
+      ],
+      "dates": {
+        "publication": "2018-11-13 17:21:32.478000+00:00",
+        "creation": "2018-11-13 17:21:32.478000+00:00",
+        "modified": "2025-03-03 18:13:12.730749+00:00"
+      },
+      "topics": [
+        "http://w3id.org/ro-id/rohub/model#subject/-1490495985",
+        "http://w3id.org/ro-id/rohub/model#subject/65653",
+        "http://w3id.org/ro-id/rohub/model#subject/-1926511999",
+        "http://w3id.org/ro-id/rohub/model#subject/-2002187000",
+        "http://w3id.org/ro-id/rohub/model#subject/11144542",
+        "http://w3id.org/ro-id/rohub/model#subject/-1445077896",
+        "http://w3id.org/ro-id/rohub/model#subject/101851436",
+        "http://w3id.org/ro-id/rohub/model#subject/100049879",
+        "http://w3id.org/ro-id/rohub/model#subject/-1211607152",
+        "http://w3id.org/ro-id/rohub/model#subject/648541999",
+        "http://w3id.org/ro-id/rohub/model#subject/1500252178",
+        "http://w3id.org/ro-id/rohub/model#subject/30963",
+        "http://w3id.org/ro-id/rohub/model#subject/-1200783730",
+        "http://w3id.org/ro-id/rohub/model#subject/-1691889586",
+        "http://w3id.org/ro-id/rohub/model#subject/-809756234",
+        "http://w3id.org/ro-id/rohub/model#subject/48833",
+        "http://w3id.org/ro-id/rohub/model#subject/146273",
+        "http://eurovoc.europa.eu/6715",
+        "http://w3id.org/ro-id/rohub/model#subject/48680",
+        "http://w3id.org/ro-id/rohub/model#subject/62669",
+        "http://w3id.org/ro-id/rohub/model#subject/2008376268"
+      ],
+      "hosting_data_source": "https://doi.org/10.25504/FAIRsharing.d3c5fd"
+    },
+    {
+      "entity_type": "product",
+      "local_identifier": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96",
+      "identifiers": {
+        "scheme": "rocrate_w3id",
+        "value": "ro-id/480429dc-12d8-40fa-a473-0f3009b50c96"
+      },
+      "titles": {
+        "none": "Deep Sea Habitat Suitabilty Model"
+      },
+      "abstracts": {
+        "none": "In this RO we derive the MSFD indicator 1.5 (Habitat area)  to assess the biological diversity descriptor. To do this in deep sea environment, the scientist (user) needs to implement a habitat suitability model."
+      },
+      "contributions": {
+        "by": "http://everest.psnc.pl/users/rapw3k",
+        "role": "author"
+      },
+      "rocrate_hasPart": [
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/annotations/evo_info"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/.ro/evo_info.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/.ro/annotations/ad01ec08-df2f-4fe2-a354-298c0d13baea.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/resources/c07b401a-5a8c-49a5-8d16-6efbaf9e2122"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/annotations/352ecb02-8a65-45c3-bf8c-d7e7f5d5b762"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/resources/a4acba77-318f-492a-86dc-a72b7dcd73b2"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/annotations/bbfcf1f7-3788-4d88-9114-f0388e77d808"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/resources/5f7e6c74-1872-43fd-be43-d75e9632342a"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/.ro/annotations/4617229c-610d-476d-8003-be774194fc57.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/.ro/annotations/0ebc88a5-7460-4c46-9341-2f546c8b526c.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/annotations/7ec206ba-9a7e-41b9-b78e-88d58b0520f5"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/resources/a0bb9a07-e4d3-4546-8e80-814ebf473ce4"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/.ro/annotations/abf788fe-096d-4097-a2b5-9b3783255dc4.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/annotations/47332337-a521-4f66-a717-7d0beb915af5"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/.ro/annotations/8fb14447-9800-4f71-8a0c-7e580f89eb13.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/annotations/f3ce0c62-a9a7-4c9f-b6ef-0d14931060c0"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/.ro/annotations/6c79bf89-193a-47d7-80d4-67b019afa41a.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/resources/659901d1-d378-4fe3-b494-6444652b33cd"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/annotations/51a10815-96db-4d18-81b9-c4e42ab04eda"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/resources/ec3e42d6-61e9-4034-aecf-b93c85a3c5ac"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/annotations/7648be29-e564-4f5c-b50c-de3a358c59d9"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/resources/6993d66d-0fbc-4762-bf64-bc31b9bb31ce"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/resources/9525568a-de37-4d56-a934-e039000aa47f"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/folders/ee4a2ea0-12c5-4b67-8944-388e3249b87d"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/resources/19d3f25e-50a1-4f9d-a749-39fa52d2ccc7"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/.ro/annotations/f7c68ac4-b1e7-4608-af23-c3cd262dff68.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/.ro/annotations/7ec206ba-9a7e-41b9-b78e-88d58b0520f5.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/.ro/annotations/ab034584-2562-4995-96eb-53ef2f99e2ea.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/.ro/annotations/7648be29-e564-4f5c-b50c-de3a358c59d9.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/annotations/f29cff6e-731e-4822-828f-b6bec9b56db3"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/resources/adddd7cf-5902-4f9b-93cf-50be47b7fb89"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/annotations/d2dafdc7-1690-42de-8890-96fae0c3e9b1"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/resources/eacb76bd-35f5-410c-a5c9-a78650208796"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/annotations/f2abd2f4-f21a-45d6-a017-381d84e2c7a1"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/folders/53e49d01-c04e-49ce-9123-7679dd372ab1"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/annotations/b61d77fd-1a5b-4a24-8f2c-fbdb829e6d59"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/annotations/8fb14447-9800-4f71-8a0c-7e580f89eb13"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/.ro/annotations/4b0497fa-d4fc-4d46-988e-bc044e0fb2d3.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/.ro/annotations/b6d835e6-9b0a-42f3-8c16-b527c01823e3.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/annotations/30919344-52c2-44ee-9775-add93939397d"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/.ro/annotations/fb6f75a4-99de-497d-94d8-f014fbad43ed.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/annotations/5dede38a-bb09-4904-942c-94acc72caaf8"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/.ro/annotations/b61d77fd-1a5b-4a24-8f2c-fbdb829e6d59.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/.ro/annotations/8a16299b-b225-41e3-a459-9c94709481f2.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/annotations/904703fc-c9cd-4d8f-b5f8-27a5feff6086"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/.ro/annotations/f2abd2f4-f21a-45d6-a017-381d84e2c7a1.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/.ro/annotations/51a10815-96db-4d18-81b9-c4e42ab04eda.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/folders/6577dad6-071f-4b91-b85d-353b64ee6b75"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/annotations/68509646-356d-4658-be9b-2a7bcbec035c"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/.ro/annotations/68509646-356d-4658-be9b-2a7bcbec035c.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/.ro/annotations/f3ce0c62-a9a7-4c9f-b6ef-0d14931060c0.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/annotations/7bd0febf-b4c5-47ba-9c1d-a939b195cfc3"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/annotations/39253a8c-134d-4bb7-aad7-514de7152c13"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/.ro/annotations/39253a8c-134d-4bb7-aad7-514de7152c13.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/.ro/annotations/c22781b9-5028-4c7b-be7c-433aabb4cb02.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/annotations/9cf4e1b8-4c78-453d-906f-d03c2733cc46"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/.ro/annotations/9cf4e1b8-4c78-453d-906f-d03c2733cc46.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/.ro/annotations/30919344-52c2-44ee-9775-add93939397d.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/annotations/b0a6c2f4-b18d-4678-9c56-9fcf66df871c"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/annotations/1e10728e-8fcc-4491-9cbb-0f357248e73d"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/annotations/abf788fe-096d-4097-a2b5-9b3783255dc4"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/.ro/annotations/e3fb13b0-78b3-4e42-90fa-461360ef76dc.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/resources/b2de59f1-bc85-4abe-bca8-f8633179cb09"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/annotations/24bfcad9-aaca-49f2-8fa6-b7a773c0f7a7"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/resources/748f9456-d649-47e8-872c-9969f2bf1c2d"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/annotations/f7c68ac4-b1e7-4608-af23-c3cd262dff68"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/.ro/annotations/ba43334c-4772-4e27-b471-5005e1653da2.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/resources/e401570d-b896-427b-92ee-55566026e788"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/annotations/4617229c-610d-476d-8003-be774194fc57"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/folders/100266ea-c9ec-4a10-92eb-1b772d564fd7"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/.ro/annotations/6937c0be-bbc4-43b9-beba-b497f54c9dd0.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/.ro/annotations/d3250121-ca04-4dfa-a25a-c2b28c83056e.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/.ro/annotations/252ff956-61e3-4cf7-8902-fa9dd13ab91b.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/folders/f72a4597-a61a-4eec-bc88-4e64571ba736"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/.ro/annotations/b49dad27-b9b8-4853-9996-ae6474e4499b.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/annotations/ebbe34af-6959-4fce-96fb-a0d5773d45f4"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/annotations/b49dad27-b9b8-4853-9996-ae6474e4499b"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/annotations/e3fb13b0-78b3-4e42-90fa-461360ef76dc"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/annotations/8a34694b-b39d-4817-8918-17cd16b56796"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/annotations/581d502a-a276-4a70-89df-56bbf5386cbe"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/.ro/annotations/ffa3590b-2d81-4683-a4cc-725d85f091a3.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/annotations/6937c0be-bbc4-43b9-beba-b497f54c9dd0"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/annotations/523b788b-f097-4dcb-85a6-e7f711ab9a25"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/annotations/fb6f75a4-99de-497d-94d8-f014fbad43ed"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/annotations/63d386a0-e654-4d3f-8cb0-5f218e52b12c"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/.ro/annotations/523b788b-f097-4dcb-85a6-e7f711ab9a25.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/folders/81b1384e-2f21-4378-bd8c-3394b70bfe30"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/.ro/annotations/e2f6d87d-7c58-46ac-9517-ef1d1e43dd2a.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/annotations/252ff956-61e3-4cf7-8902-fa9dd13ab91b"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/.ro/annotations/14113075-ed1a-4ce2-8f35-28baafaf51c1.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/annotations/0ebc88a5-7460-4c46-9341-2f546c8b526c"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/.ro/annotations/d2dafdc7-1690-42de-8890-96fae0c3e9b1.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/.ro/annotations/b0a6c2f4-b18d-4678-9c56-9fcf66df871c.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/.ro/annotations/6a934201-7b15-413a-b3cf-de8a4eb850f7.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/annotations/ad01ec08-df2f-4fe2-a354-298c0d13baea"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/annotations/6a934201-7b15-413a-b3cf-de8a4eb850f7"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/.ro/annotations/581d502a-a276-4a70-89df-56bbf5386cbe.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/.ro/annotations/f29cff6e-731e-4822-828f-b6bec9b56db3.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/annotations/ea9b3f3b-26a8-4597-aa5d-f08be4fe0ea6"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/.ro/annotations/abd79b24-8147-4000-b07f-c32e70a0f457.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/.ro/annotations/904703fc-c9cd-4d8f-b5f8-27a5feff6086.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/.ro/annotations/1e10728e-8fcc-4491-9cbb-0f357248e73d.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/resources/107326eb-2943-4cf4-adb7-e53fcc7b560a"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/.ro/annotations/5dede38a-bb09-4904-942c-94acc72caaf8.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/.ro/annotations/8a34694b-b39d-4817-8918-17cd16b56796.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/.ro/annotations/ebbe34af-6959-4fce-96fb-a0d5773d45f4.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/annotations/6c79bf89-193a-47d7-80d4-67b019afa41a"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/annotations/c74ccb1c-a7ac-4fa1-9de7-9f6587368d78"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/.ro/annotations/c74ccb1c-a7ac-4fa1-9de7-9f6587368d78.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/.ro/annotations/24bfcad9-aaca-49f2-8fa6-b7a773c0f7a7.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/annotations/4b0497fa-d4fc-4d46-988e-bc044e0fb2d3"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/annotations/69a0e3a9-347b-4b52-96aa-1009612bac30"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/annotations/6c6596df-0396-4aed-9778-2c6c413de755"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/.ro/annotations/352ecb02-8a65-45c3-bf8c-d7e7f5d5b762.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/annotations/6d3a94f4-05ec-4138-9937-1542bb166a8d"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/annotations/8a16299b-b225-41e3-a459-9c94709481f2"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/resources/728b1687-005f-4406-b97a-47071531458b"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/annotations/e2f6d87d-7c58-46ac-9517-ef1d1e43dd2a"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/folders/89d1b319-8cfd-4923-8f48-8331b82ef17b"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/annotations/b6d835e6-9b0a-42f3-8c16-b527c01823e3"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/.ro/annotations/779943bb-4069-498a-b78a-2e0cdf7e9663.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/annotations/ba43334c-4772-4e27-b471-5005e1653da2"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/.ro/annotations/6c6596df-0396-4aed-9778-2c6c413de755.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/annotations/ab034584-2562-4995-96eb-53ef2f99e2ea"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/annotations/779943bb-4069-498a-b78a-2e0cdf7e9663"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/annotations/14113075-ed1a-4ce2-8f35-28baafaf51c1"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/annotations/602b36a1-5fe5-41ba-aedb-719fa4a91494"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/folders/2f142574-5969-4714-9f4c-4312dfb6f319"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/annotations/abd79b24-8147-4000-b07f-c32e70a0f457"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/.ro/annotations/dd6640bd-2786-4e75-bee3-374d91462a5b.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/.ro/annotations/ea9b3f3b-26a8-4597-aa5d-f08be4fe0ea6.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/folders/118c7859-9bea-4860-8738-5ba4ccffe8bf"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/resources/ad56fff3-0120-47c6-97fb-7c2ce6fc305d"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/.ro/annotations/63d386a0-e654-4d3f-8cb0-5f218e52b12c.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/annotations/c22781b9-5028-4c7b-be7c-433aabb4cb02"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/annotations/d3250121-ca04-4dfa-a25a-c2b28c83056e"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/.ro/annotations/6d3a94f4-05ec-4138-9937-1542bb166a8d.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/annotations/ffa3590b-2d81-4683-a4cc-725d85f091a3"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/annotations/dd6640bd-2786-4e75-bee3-374d91462a5b"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/.ro/annotations/7bd0febf-b4c5-47ba-9c1d-a939b195cfc3.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/.ro/annotations/602b36a1-5fe5-41ba-aedb-719fa4a91494.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/.ro/annotations/47332337-a521-4f66-a717-7d0beb915af5.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/.ro/annotations/69a0e3a9-347b-4b52-96aa-1009612bac30.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/.ro/annotations/bbfcf1f7-3788-4d88-9114-f0388e77d808.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/.ro/annotations/enrichment.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/480429dc-12d8-40fa-a473-0f3009b50c96/annotations/enrichment"
+        }
+      ],
+      "dates": {
+        "publication": "2016-04-05 11:16:51.848000+00:00",
+        "creation": "2016-04-05 11:16:51.848000+00:00",
+        "modified": "2025-03-03 18:04:40.134124+00:00"
+      },
+      "topics": [
+        "http://w3id.org/ro-id/rohub/model#subject/115345",
+        "http://w3id.org/ro-id/rohub/model#subject/194794",
+        "http://w3id.org/ro-id/rohub/model#subject/31033",
+        "http://w3id.org/ro-id/rohub/model#subject/-1455055118",
+        "http://w3id.org/ro-id/rohub/model#subject/63857",
+        "http://w3id.org/ro-id/rohub/model#subject/15389814",
+        "http://w3id.org/ro-id/rohub/model#subject/-1342651567",
+        "http://w3id.org/ro-id/rohub/model#subject/-872744469",
+        "http://w3id.org/ro-id/rohub/model#subject/15672",
+        "http://w3id.org/ro-id/rohub/model#subject/39283",
+        "http://w3id.org/ro-id/rohub/model#subject/-1808182312",
+        "http://w3id.org/ro-id/rohub/model#subject/41516",
+        "http://w3id.org/ro-id/rohub/model#subject/-172096196",
+        "http://w3id.org/ro-id/rohub/model#subject/-750569360",
+        "http://w3id.org/ro-id/rohub/model#subject/448821135",
+        "http://w3id.org/ro-id/rohub/model#subject/65805908",
+        "http://w3id.org/ro-id/rohub/model#subject/-2083489377",
+        "http://w3id.org/ro-id/rohub/model#subject/42228",
+        "http://w3id.org/ro-id/rohub/model#subject/614623637",
+        "http://w3id.org/ro-id/rohub/model#subject/12625671",
+        "http://w3id.org/ro-id/rohub/model#subject/33532",
+        "http://w3id.org/ro-id/rohub/model#subject/-1687750182",
+        "http://w3id.org/ro-id/rohub/model#subject/-118195557",
+        "http://w3id.org/ro-id/rohub/model#subject/623408613",
+        "http://w3id.org/ro-id/rohub/model#subject/680864336",
+        "http://w3id.org/ro-id/rohub/model#subject/-1237335481",
+        "http://w3id.org/ro-id/rohub/model#subject/-2074452948",
+        "http://w3id.org/ro-id/rohub/model#subject/-2034489426",
+        "http://w3id.org/ro-id/rohub/model#subject/-610446219",
+        "http://eurovoc.europa.eu/632",
+        "http://w3id.org/ro-id/rohub/model#subject/2717",
+        "http://w3id.org/ro-id/rohub/model#subject/41351",
+        "http://w3id.org/ro-id/rohub/model#subject/154183",
+        "http://w3id.org/ro-id/rohub/model#subject/3686",
+        "http://w3id.org/ro-id/rohub/model#subject/1231714172",
+        "http://w3id.org/ro-id/rohub/model#subject/39351",
+        "http://w3id.org/ro-id/rohub/model#subject/-961837093",
+        "http://w3id.org/ro-id/rohub/model#subject/147596",
+        "http://w3id.org/ro-id/rohub/model#subject/107360",
+        "http://w3id.org/ro-id/rohub/model#subject/4473",
+        "http://w3id.org/ro-id/rohub/model#subject/143544"
+      ],
+      "hosting_data_source": "https://doi.org/10.25504/FAIRsharing.d3c5fd"
+    },
+    {
+      "entity_type": "product",
+      "local_identifier": "https://w3id.org/ro-id-dev/db29e5d0-d696-48b6-95be-cd4c70127c6d",
+      "identifiers": {
+        "scheme": "rocrate_w3id",
+        "value": "ro-id/db29e5d0-d696-48b6-95be-cd4c70127c6d"
+      },
+      "titles": {
+        "none": "RELIANCE: an example showing how to implement Open Science, FAIR and EOSC in practice - archive"
+      },
+      "abstracts": {
+        "none": "A demo given at the 3RD ESFRI-EOSC WORKSHOP ON RIS AND EOSC to show what the RELIANCE project has achieved on Open Science, FAIR and EOSC practice. \n\nClick on the links in the Research Object to access its different elements. The main resource of this Research Object is a video published on zenodo:  https://doi.org/10.5281/zenodo.5906803"
+      },
+      "contributions": {
+        "by": "https://w3id.org/ro-id/users/annefou@geo.uio.no",
+        "role": "author"
+      },
+      "rocrate_hasPart": [
+        {
+          "@id": "https://w3id.org/ro-id-dev/db29e5d0-d696-48b6-95be-cd4c70127c6d/annotations/evo_info"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/db29e5d0-d696-48b6-95be-cd4c70127c6d/.ro/evo_info.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/db29e5d0-d696-48b6-95be-cd4c70127c6d/.ro/annotations/bac77446-3ed5-4c72-98b9-9697e64df077.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/db29e5d0-d696-48b6-95be-cd4c70127c6d/annotations/e5d879e2-833b-49a7-bdc9-8a906afce94c"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/db29e5d0-d696-48b6-95be-cd4c70127c6d/annotations/7116ff4e-a907-4274-94e5-99bf7f59c367"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/db29e5d0-d696-48b6-95be-cd4c70127c6d/annotations/c5c343c6-9992-4014-87b1-2f74224b0d6b"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/db29e5d0-d696-48b6-95be-cd4c70127c6d/.ro/annotations/37a7e747-0d07-4dbd-aada-3246d8508e55.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/db29e5d0-d696-48b6-95be-cd4c70127c6d/annotations/d44f27f2-96b5-430d-acac-43e0cb9e1ea0"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/db29e5d0-d696-48b6-95be-cd4c70127c6d/.ro/annotations/d44f27f2-96b5-430d-acac-43e0cb9e1ea0.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/db29e5d0-d696-48b6-95be-cd4c70127c6d/.ro/annotations/0054bf73-919f-493c-a6b7-e0aeeacbecc2.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/db29e5d0-d696-48b6-95be-cd4c70127c6d/.ro/annotations/06c14072-d72c-4890-a97e-53cd953c8112.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/db29e5d0-d696-48b6-95be-cd4c70127c6d/annotations/58cd7878-4880-43c8-bdd8-84b4d7450255"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/db29e5d0-d696-48b6-95be-cd4c70127c6d/.ro/annotations/079f79cd-b573-4586-a03a-e031990db68e.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/db29e5d0-d696-48b6-95be-cd4c70127c6d/annotations/d2a4ba55-6024-4735-aa42-dae486c25bfc"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/db29e5d0-d696-48b6-95be-cd4c70127c6d/resources/2b8157d0-50c9-4073-be2f-9e31e908686b"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/db29e5d0-d696-48b6-95be-cd4c70127c6d/annotations/12968d88-01d1-48a0-ac41-f2fde0b76a5d"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/db29e5d0-d696-48b6-95be-cd4c70127c6d/annotations/0ab55444-340c-4a5f-b7b3-062511eb56ed"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/db29e5d0-d696-48b6-95be-cd4c70127c6d/annotations/3c91d04f-ff8d-42c6-9043-6bbcbe317ab9"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/db29e5d0-d696-48b6-95be-cd4c70127c6d/.ro/annotations/3c91d04f-ff8d-42c6-9043-6bbcbe317ab9.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/db29e5d0-d696-48b6-95be-cd4c70127c6d/.ro/annotations/7116ff4e-a907-4274-94e5-99bf7f59c367.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/db29e5d0-d696-48b6-95be-cd4c70127c6d/annotations/079f79cd-b573-4586-a03a-e031990db68e"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/db29e5d0-d696-48b6-95be-cd4c70127c6d/annotations/002ccaa3-7815-481e-8330-38d03e7dc417"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/db29e5d0-d696-48b6-95be-cd4c70127c6d/annotations/1f24a2ff-2a8d-4625-8ea4-e95b9092f29d"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/db29e5d0-d696-48b6-95be-cd4c70127c6d/annotations/37a7e747-0d07-4dbd-aada-3246d8508e55"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/db29e5d0-d696-48b6-95be-cd4c70127c6d/resources/4ed65dab-c2cf-44be-b4aa-3326c1b457b6"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/db29e5d0-d696-48b6-95be-cd4c70127c6d/.ro/annotations/4d70d8d7-5698-4b67-9d8c-b5128b8f419b.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/db29e5d0-d696-48b6-95be-cd4c70127c6d/.ro/annotations/6778b4e1-b2fc-4436-996c-6bd6ffc3e0aa.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/db29e5d0-d696-48b6-95be-cd4c70127c6d/resources/7d24b5da-5ad8-4525-bf54-7b95d115f046"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/db29e5d0-d696-48b6-95be-cd4c70127c6d/.ro/annotations/712a41a0-388d-4267-b15c-e3b3a9b9093b.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/db29e5d0-d696-48b6-95be-cd4c70127c6d/.ro/annotations/8b3b446d-edd6-4338-8f96-2e85ad69197d.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/db29e5d0-d696-48b6-95be-cd4c70127c6d/.ro/annotations/b73bd36a-24fa-45ee-bfe8-e0e5c7176e34.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/db29e5d0-d696-48b6-95be-cd4c70127c6d/annotations/4b6a85f5-e8d3-4792-bb0d-a3860e6dea01"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/db29e5d0-d696-48b6-95be-cd4c70127c6d/annotations/bac77446-3ed5-4c72-98b9-9697e64df077"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/db29e5d0-d696-48b6-95be-cd4c70127c6d/resources/c9af8a7b-6e6d-4491-8322-f56b42866d66"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/db29e5d0-d696-48b6-95be-cd4c70127c6d/annotations/5dfc6bec-65a9-4d0f-9e7f-7c1b9ad34cf7"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/db29e5d0-d696-48b6-95be-cd4c70127c6d/.ro/annotations/766829f1-0c81-4e65-97bd-2b62d4d30ec6.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/db29e5d0-d696-48b6-95be-cd4c70127c6d/annotations/8b3b446d-edd6-4338-8f96-2e85ad69197d"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/db29e5d0-d696-48b6-95be-cd4c70127c6d/annotations/4d70d8d7-5698-4b67-9d8c-b5128b8f419b"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/db29e5d0-d696-48b6-95be-cd4c70127c6d/resources/494561cf-026e-4c68-9761-d631d3b934c6"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/db29e5d0-d696-48b6-95be-cd4c70127c6d/annotations/fb32dd7e-47b7-47d6-9927-1af2b8f231ac"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/db29e5d0-d696-48b6-95be-cd4c70127c6d/resources/1deccb14-3d8a-4508-9345-f5a2d9b63102"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/db29e5d0-d696-48b6-95be-cd4c70127c6d/annotations/85e8268c-cac6-4685-ad8e-24dab19b08d8"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/db29e5d0-d696-48b6-95be-cd4c70127c6d/.ro/annotations/5dfc6bec-65a9-4d0f-9e7f-7c1b9ad34cf7.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/db29e5d0-d696-48b6-95be-cd4c70127c6d/resources/5f107a32-4b60-4ba3-9a73-12ad6bdae3a1"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/db29e5d0-d696-48b6-95be-cd4c70127c6d/folders/34996e66-3833-4bf9-9233-a16a06e899ab"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/db29e5d0-d696-48b6-95be-cd4c70127c6d/.ro/annotations/c5c343c6-9992-4014-87b1-2f74224b0d6b.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/db29e5d0-d696-48b6-95be-cd4c70127c6d/.ro/annotations/e5d879e2-833b-49a7-bdc9-8a906afce94c.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/db29e5d0-d696-48b6-95be-cd4c70127c6d/annotations/a751d3ca-7b33-4d4a-9fab-8e83b04ed668"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/db29e5d0-d696-48b6-95be-cd4c70127c6d/annotations/enrichment"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/db29e5d0-d696-48b6-95be-cd4c70127c6d/annotations/712a41a0-388d-4267-b15c-e3b3a9b9093b"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/db29e5d0-d696-48b6-95be-cd4c70127c6d/.ro/annotations/fc2d3c0f-4aa5-418a-aafb-92f063c607d6.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/db29e5d0-d696-48b6-95be-cd4c70127c6d/annotations/dbc175d3-8a3e-42c1-bbb4-d4900dc3a841"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/db29e5d0-d696-48b6-95be-cd4c70127c6d/.ro/annotations/85e8268c-cac6-4685-ad8e-24dab19b08d8.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/db29e5d0-d696-48b6-95be-cd4c70127c6d/annotations/ddc1cd03-25a9-4cd5-b22e-deac9ec0a53b"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/db29e5d0-d696-48b6-95be-cd4c70127c6d/annotations/0054bf73-919f-493c-a6b7-e0aeeacbecc2"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/db29e5d0-d696-48b6-95be-cd4c70127c6d/annotations/43946e55-27ef-4c06-a1ee-86feb807cc27"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/db29e5d0-d696-48b6-95be-cd4c70127c6d/resources/d26b8366-7c22-4e34-8a8d-65244021b736"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/db29e5d0-d696-48b6-95be-cd4c70127c6d/.ro/annotations/a751d3ca-7b33-4d4a-9fab-8e83b04ed668.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/db29e5d0-d696-48b6-95be-cd4c70127c6d/.ro/annotations/225ec999-f6dd-41d0-8768-579ea62cbd57.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/db29e5d0-d696-48b6-95be-cd4c70127c6d/annotations/766829f1-0c81-4e65-97bd-2b62d4d30ec6"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/db29e5d0-d696-48b6-95be-cd4c70127c6d/annotations/b73bd36a-24fa-45ee-bfe8-e0e5c7176e34"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/db29e5d0-d696-48b6-95be-cd4c70127c6d/annotations/06c14072-d72c-4890-a97e-53cd953c8112"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/db29e5d0-d696-48b6-95be-cd4c70127c6d/.ro/annotations/bdbea035-4f5b-49cd-846e-24e6e545b0cf.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/db29e5d0-d696-48b6-95be-cd4c70127c6d/resources/b1d145e7-b444-4925-9fd3-7d2297c2ab51"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/db29e5d0-d696-48b6-95be-cd4c70127c6d/annotations/30728c6e-7006-41d4-b8e5-f0f11289c978"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/db29e5d0-d696-48b6-95be-cd4c70127c6d/.ro/annotations/4b6a85f5-e8d3-4792-bb0d-a3860e6dea01.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/db29e5d0-d696-48b6-95be-cd4c70127c6d/.ro/annotations/ddc1cd03-25a9-4cd5-b22e-deac9ec0a53b.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/db29e5d0-d696-48b6-95be-cd4c70127c6d/.ro/annotations/enrichment.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/db29e5d0-d696-48b6-95be-cd4c70127c6d/.ro/annotations/0ab55444-340c-4a5f-b7b3-062511eb56ed.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/db29e5d0-d696-48b6-95be-cd4c70127c6d/annotations/6778b4e1-b2fc-4436-996c-6bd6ffc3e0aa"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/db29e5d0-d696-48b6-95be-cd4c70127c6d/.ro/annotations/3e4957cf-aac9-49c8-af1b-b8415071d0e0.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/db29e5d0-d696-48b6-95be-cd4c70127c6d/annotations/fc2d3c0f-4aa5-418a-aafb-92f063c607d6"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/db29e5d0-d696-48b6-95be-cd4c70127c6d/.ro/annotations/30728c6e-7006-41d4-b8e5-f0f11289c978.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/db29e5d0-d696-48b6-95be-cd4c70127c6d/.ro/annotations/12968d88-01d1-48a0-ac41-f2fde0b76a5d.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/db29e5d0-d696-48b6-95be-cd4c70127c6d/.ro/annotations/c881a90c-2f37-4884-938e-87fb12afde94.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/db29e5d0-d696-48b6-95be-cd4c70127c6d/.ro/annotations/dbc175d3-8a3e-42c1-bbb4-d4900dc3a841.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/db29e5d0-d696-48b6-95be-cd4c70127c6d/.ro/annotations/1f24a2ff-2a8d-4625-8ea4-e95b9092f29d.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/db29e5d0-d696-48b6-95be-cd4c70127c6d/.ro/annotations/d2a4ba55-6024-4735-aa42-dae486c25bfc.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/db29e5d0-d696-48b6-95be-cd4c70127c6d/.ro/annotations/58cd7878-4880-43c8-bdd8-84b4d7450255.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/db29e5d0-d696-48b6-95be-cd4c70127c6d/.ro/annotations/c569a7a5-fbed-4a82-8e15-1b9d72032057.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/db29e5d0-d696-48b6-95be-cd4c70127c6d/.ro/annotations/fb32dd7e-47b7-47d6-9927-1af2b8f231ac.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/db29e5d0-d696-48b6-95be-cd4c70127c6d/.ro/annotations/002ccaa3-7815-481e-8330-38d03e7dc417.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/db29e5d0-d696-48b6-95be-cd4c70127c6d/annotations/225ec999-f6dd-41d0-8768-579ea62cbd57"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/db29e5d0-d696-48b6-95be-cd4c70127c6d/annotations/b5048247-cb41-4058-b9bf-645842c60d35"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/db29e5d0-d696-48b6-95be-cd4c70127c6d/annotations/c881a90c-2f37-4884-938e-87fb12afde94"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/db29e5d0-d696-48b6-95be-cd4c70127c6d/annotations/3e4957cf-aac9-49c8-af1b-b8415071d0e0"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/db29e5d0-d696-48b6-95be-cd4c70127c6d/annotations/c569a7a5-fbed-4a82-8e15-1b9d72032057"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/db29e5d0-d696-48b6-95be-cd4c70127c6d/annotations/b0b28a65-11bc-4bd5-b9d2-5425237cc18e"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/db29e5d0-d696-48b6-95be-cd4c70127c6d/.ro/annotations/b5048247-cb41-4058-b9bf-645842c60d35.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/db29e5d0-d696-48b6-95be-cd4c70127c6d/.ro/annotations/b0b28a65-11bc-4bd5-b9d2-5425237cc18e.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/db29e5d0-d696-48b6-95be-cd4c70127c6d/annotations/bdbea035-4f5b-49cd-846e-24e6e545b0cf"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/db29e5d0-d696-48b6-95be-cd4c70127c6d/folders/fea58c39-13ce-4b61-931e-c063f0c1ace5"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/db29e5d0-d696-48b6-95be-cd4c70127c6d/.ro/annotations/43946e55-27ef-4c06-a1ee-86feb807cc27.ttl"
+        }
+      ],
+      "dates": {
+        "publication": "2022-01-26 15:24:28.638814+00:00",
+        "creation": "2022-01-26 15:24:28.638814+00:00",
+        "modified": "2025-03-03 18:17:30.875344+00:00"
+      },
+      "topics": [
+        "http://eurovoc.europa.eu/3952",
+        "http://eurovoc.europa.eu/3949",
+        "http://eurovoc.europa.eu/2919"
+      ],
+      "hosting_data_source": "https://doi.org/10.25504/FAIRsharing.d3c5fd"
+    },
+    {
+      "entity_type": "product",
+      "local_identifier": "https://w3id.org/ro-id-dev/f95b9426-532e-466e-ad32-ad7465777b10",
+      "identifiers": {
+        "scheme": "rocrate_w3id",
+        "value": "ro-id/f95b9426-532e-466e-ad32-ad7465777b10"
+      },
+      "titles": {
+        "none": "NHP Daily Hazard Assessment 2018-05-08 1402"
+      },
+      "abstracts": {
+        "none": "Daily Hazard Assessment and supporting documents generated by the Met Office: NSWWS and fgs-statements"
+      },
+      "contributions": {
+        "by": "http://rohub.org/users/portal/ead672e7737d3af7bf6af5476e8363b2",
+        "role": "author"
+      },
+      "rocrate_hasPart": [
+        {
+          "@id": "https://w3id.org/ro-id-dev/f95b9426-532e-466e-ad32-ad7465777b10/annotations/evo_info"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/f95b9426-532e-466e-ad32-ad7465777b10/.ro/evo_info.ttl"
+        },
+        {
+          "@id": "https://w3id.org/ro-id-dev/f95b9426-532e-466e-ad32-ad7465777b10/resources/3162780a-929d-4aba-ae9f-2c8ebe772785"
+        }
+      ],
+      "dates": {
+        "publication": "2018-11-13 17:15:09.264000+00:00",
+        "creation": "2018-11-13 17:15:09.264000+00:00",
+        "modified": "2025-03-03 18:18:04.725785+00:00"
+      },
+      "topics": [
+        "http://w3id.org/ro-id/rohub/model#subject/-1445077896",
+        "http://w3id.org/ro-id/rohub/model#subject/1862110053",
+        "http://w3id.org/ro-id/rohub/model#subject/440571415",
+        "http://w3id.org/ro-id/rohub/model#subject/-1691889586",
+        "http://w3id.org/ro-id/rohub/model#subject/-809756234",
+        "http://w3id.org/ro-id/rohub/model#subject/48833",
+        "http://w3id.org/ro-id/rohub/model#subject/146273",
+        "http://w3id.org/ro-id/rohub/model#subject/140439",
+        "http://eurovoc.europa.eu/6715",
+        "http://w3id.org/ro-id/rohub/model#subject/48680",
+        "http://w3id.org/ro-id/rohub/model#subject/62669",
+        "http://w3id.org/ro-id/rohub/model#subject/65404",
+        "http://w3id.org/ro-id/rohub/model#subject/12622889",
+        "http://w3id.org/ro-id/rohub/model#subject/2056995762",
+        "http://w3id.org/ro-id/rohub/model#subject/339159550"
+      ],
+      "hosting_data_source": "https://doi.org/10.25504/FAIRsharing.d3c5fd"
+    }
+  ]
+}
