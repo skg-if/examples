@@ -12,7 +12,7 @@ ResearchObject (RO-Crate);;;;;
 ;schema:contributor;pro:isRelatedToRoleInTime;contributions;Property;
 ;schema:publisher;pro:isRelatedToRoleInTime;contributions;Property;
 ;author/contributor/publisher @id;pro:isHeldBy;by;Property;
-;;pro:withRole;role;Property;"author/contributor = author; publisher = publisher; creator = editor, copyrightHolder= rocrate_copyright-owner (extension)"
+;;pro:withRole;role;Property;"author/contributor = author, publisher = publisher, creator = editor, copyrightHolder= rocrate_copyright-owner (extension)"
 ;;co:index;rank;Property;Auto-incremental
 ;schema:description;dcterms:abstract;abstract;Property;
 ;schema:hasPart;schema:hasPart;rocrate_hasPart;Property;extension
