@@ -1,0 +1,2 @@
+An example of what one research product returned by CESSDA's upcoming SKG-IF API /products endpoint would look like. Some additional information might be included in the actual API implementation, but some information might also be removed if implementation is not feasible. Also contains an example of what related publication that cites the study from the first example would look like.
+The study from the example can be found in [CESSDA Data Catalogue](https://datacatalogue.cessda.eu/detail/280f0f65d8a53b4201440ce64360cb3bf75c24e0567e68532c10f8e7937bf1ab).

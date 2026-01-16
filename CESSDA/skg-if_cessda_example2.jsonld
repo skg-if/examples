@@ -1,0 +1,32 @@
+{
+  "@context": [
+    "https://w3id.org/skg-if/context/1.0.1/skg-if.json",
+    {
+      "@base": "https://w3id.org/skg-if/sandbox/cessda/"
+    }
+  ],
+  "@graph": [
+    {
+      "local_identifier": "otf___1749734385421___relpubl-1",
+      "identifiers": [
+        {
+          "scheme": "doi",
+          "value": "10.1080/15213269.2018.1544910"
+        }
+      ],
+      "entity_type": "product",
+      "titles": {
+        "en": [
+          "Kaakinen, M., Sirola, A., Savolainen, I. & Oksanen, A. (2020) Shared Identity and Shared Information in Social Media: Development and Validation of the Identity Bubble Reinforcement Scale. Media Psychology, 23(1), 23-51. DOI: 10.1080/15213269.2018.1544910."
+        ]
+      },
+      "product_type": "literature",
+      "related_products": {
+        "cites": [
+          "280f0f65d8a53b4201440ce64360cb3bf75c24e0567e68532c10f8e7937bf1ab",
+          "a92afed3e749620b6ef51a4d812636696f407300386b6ac9cc63b34377cc18ed"
+        ]
+      }
+    }
+  ]
+}
